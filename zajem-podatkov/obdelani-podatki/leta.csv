@@ -1,386 +1,451 @@
-verzija,leto
-
-T8R,2020
-
-T8R,2021
-
-1.8 75,1982
-
-1.8 75,1983
-
-1.8 75,1984
-
-1.8 75,1985
-
-1.8 75,1986
-
-1.8 90,1982
-
-1.8 90,1983
-
-1.8 90,1984
-
-1.8 90,1985
-
-1.8 90,1986
-
-1.8,1986
-
-1.8,1987
-
-1.8,1988
-
-1.9,1982
-
-1.9,1983
-
-1.9,1984
-
-2.0 D,1988
-
-2.0 D,1989
-
-2.0 E,1988
-
-2.0 E,1989
-
-2.0 E,1990
-
-2.0 E,1991
-
-2.0 TD,1988
-
-2.0 TD,1989
-
-2.0,1984
-
-2.0,1985
-
-2.0,1986
-
-2.1,1982
-
-2.1,1983
-
-2.1,1984
-
-2.2 Quattro,1984
-
-2.2 Quattro,1985
-
-2.2 Quattro,1986
-
-2.2 Sport quattro,1990
-
-2.2 Sport quattro,1991
-
-2.2 Turbo Quattro,1989
-
-2.2 Turbo Quattro,1990
-
-2.2 Turbo Quattro,1991
-
-2.2 Turbo,1989
-
-2.2 Turbo,1990
-
-2.2 Turbo,1991
-
-2.2,1982
-
-2.2,1983
-
-2.2,1984
-
-2.2,1985
-
-2.2,1986
-
-2.3 E Quattro,1988
-
-2.3 E Quattro,1989
-
-2.3 E Quattro,1990
-
-2.3 E Quattro,1991
-
-2.3 E,1988
-
-2.3 E,1989
-
-2.3 E,1990
-
-2.3 E,1991
-
-2.3 Quattro,1986
-
-2.3 Quattro,1987
-
-2.3 Quattro,1988
-
-2.4 D,1989
-
-2.4 D,1990
-
-2.4 D,1991
-
-2.5 TDI,1989
-
-2.5 TDI,1990
-
-2.5 TDI,1991
-
-5E,1977
-
-5E,1978
-
-5E,1979
-
-5E,1980
-
-5E,1981
-
-5E,1982
-
-1.8 TFSI Ultra 190HP S-tronic 7 Speeds,2014
-
-2.0 TDI Ultra 150HP S-tronic 7 Speeds,2014
-
-2.0 TDI Ultra 150HP,2014
-
-2.0 TDI ultra 190HP Quattro S-tronic 7 Speeds,2016
-
-2.0 TDI Ultra 190HP S-tronic 7 Speeds,2014
-
-2.0 TDI Ultra 190HP,2014
-
-2.0 TFSI 252HP Quattro S-tronic 7 Speeds,2016
-
-2.0 TFSI 252HP S-tronic 7 Speeds,2014
-
-3.0 Bi TDI 320HP Quattro Tiptronic 8 Speeds Competition,2016
-
-3.0 Bi TDI 320HP Quattro Tiptronic 8 Speeds,2014
-
-3.0 TDI 218HP Quattro S-tronic 7 Speeds,2016
-
-3.0 TDI 218HP S-tronic 7 Speeds,2016
-
-3.0 TDI 272HP Quattro S-tronic 7 Speeds,2014
-
-3.0 TFSI 333HP Quattro S-tronic 7 Speeds,2014
-
-S6 4.0 TFSI 450HP Quattro S-tronic 7 Speeds,2014
-
-2.7L EcoBoost V6 4x2 5.5 ft. SuperCrew,2015
-
-2.7L EcoBoost V6 4x2 6.5 ft. Regular,2015
-
-2.7L EcoBoost V6 4x2 6.5 ft. SuperCab,2015
-
-2.7L EcoBoost V6 4x2 6.5 ft. SuperCrew,2015
-
-2.7L EcoBoost V6 4x2 8 ft. Regular,2015
-
-2.7L EcoBoost V6 4x2 8 ft. SuperCab,2015
-
-2.7L EcoBoost V6 4x4 5.5 ft. SuperCrew,2015
-
-2.7L EcoBoost V6 4x4 6.5 ft. Regular,2015
-
-2.7L EcoBoost V6 4x4 6.5 ft. SuperCab,2015
-
-2.7L EcoBoost V6 4x4 8 ft. Regular,2015
-
-3.5L EcoBoost V6 4x2 5.5 ft. SuperCrew,2015
-
-3.5L EcoBoost V6 4x2 6.5 ft. SuperCab,2015
-
-3.5L EcoBoost V6 4x2 6.5 ft. SuperCrew,2015
-
-3.5L EcoBoost V6 4x2 8 ft. Regular,2015
-
-3.5L EcoBoost V6 4x2 8 ft. SuperCab,2015
-
-3.5L EcoBoost V6 4x4 5.5 ft. SuperCrew,2015
-
-3.5L EcoBoost V6 4x4 6.5 ft. SuperCab,2015
-
-3.5L EcoBoost V6 4x4 6.5 ft. SuperCrew,2015
-
-3.5L EcoBoost V6 4x4 8 ft. Regular,2015
-
-3.5L EcoBoost V6 4x4 8 ft. SuperCab,2015
-
-3.5L Ti-VCT V6 4x2 5.5 ft. SuperCrew,2015
-
-3.5L Ti-VCT V6 4x2 6.5 ft. Regular,2015
-
-3.5L Ti-VCT V6 4x2 6.5 ft. SuperCab,2015
-
-3.5L Ti-VCT V6 4x2 8 ft. Regular,2015
-
-3.5L TI-VCT V6 4x2 Regular 6.5ft,2015
-
-3.5L TI-VCT V6 4x2 Regular 8ft,2015
-
-3.5L Ti-VCT V6 4x4 5.5 ft. SuperCrew,2015
-
-3.5L Ti-VCT V6 4x4 6.5 ft. Regular,2015
-
-3.5L Ti-VCT V6 4x4 6.5 ft. SuperCab,2015
-
-3.5L Ti-VCT V6 4x4 8 ft. Regular,2015
-
-3.5L TI-VCT V6 4x4 Regular 6.5ft,2015
-
-3.5L TI-VCT V6 4x4 Regular 8ft,2015
-
- 3.7L V6 4V Ti-VCT 4x2 6.5ft box Regular Cab,2011
-
- 3.7L V6 4V Ti-VCT 4x2 6.5ft box Regular Cab,2012
-
- 3.7L V6 4V Ti-VCT 4x2 6.5ft box Regular Cab,2013
-
- 3.7L V6 4V Ti-VCT 4x2 6.5ft box Regular Cab,2014
-
- 3.7L V6 4V Ti-VCT 4x2 6.5ft box SuperCab,2011
-
- 3.7L V6 4V Ti-VCT 4x2 6.5ft box SuperCab,2012
-
- 3.7L V6 4V Ti-VCT 4x2 6.5ft box SuperCab,2013
-
- 3.7L V6 4V Ti-VCT 4x2 6.5ft box SuperCab,2014
-
- 3.7L V6 4V Ti-VCT 4x2 8ft box Regular Cab,2011
-
- 3.7L V6 4V Ti-VCT 4x2 8ft box Regular Cab,2012
-
- 3.7L V6 4V Ti-VCT 4x2 8ft box Regular Cab,2013
-
- 3.7L V6 4V Ti-VCT 4x2 8ft box Regular Cab,2014
-
- 3.7L V6 4V Ti-VCT 4x4 6.5ft box Regular Cab,2011
-
- 3.7L V6 4V Ti-VCT 4x4 6.5ft box Regular Cab,2012
-
- 3.7L V6 4V Ti-VCT 4x4 6.5ft box Regular Cab,2013
-
- 3.7L V6 4V Ti-VCT 4x4 6.5ft box Regular Cab,2014
-
- 3.7L V6 4V Ti-VCT 4x4 8ft box Regular Cab,2011
-
- 3.7L V6 4V Ti-VCT 4x4 8ft box Regular Cab,2012
-
- 3.7L V6 4V Ti-VCT 4x4 8ft box Regular Cab,2013
-
- 3.7L V6 4V Ti-VCT 4x4 8ft box Regular Cab,2014
-
- 4.6L V8 2V 4x2 5.5ft box SuperCab,2009
-
-4.6L V8 2V 4x2 6.5 ft. Regular,2009
-
-4.6L V8 2V 4x2 6.5 ft. Regular,2010
-
- 4.6L V8 2V 4x2 6.5ft box SuperCab,2009
-
- 4.6L V8 2V 4x2 6.5ft box SuperCab,2010
-
-4.6L V8 2V 4x2 8 ft. Regular Cab,2009
-
-4.6L V8 2V 4x2 8 ft. Regular Cab,2010
-
- 4.6L V8 2V 4x4 5.5ft box SuperCab,2009
-
- 4.6L V8 2V 4x4 6.5ft box Regular Cab,2009
-
- 4.6L V8 2V 4x4 6.5ft box Regular Cab,2010
-
- 4.6L V8 2V 4x4 6.5ft box SuperCab,2009
-
- 4.6L V8 2V 4x4 6.5ft box SuperCab,2010
-
- 4.6L V8 2V 4x4 8ft box Regular Cab,2009
-
- 4.6L V8 2V 4x4 8ft box Regular Cab,2010
-
- 4.6L V8 3V 4x2 5.5ft box SuperCab,2009
-
- 4.6L V8 3V 4x2 6.5ft box SuperCab,2009
-
- 4.6L V8 3V 4x2 6.5ft box SuperCab,2010
-
- 4.6L V8 3V 4x2 8ft box Regular Cab,2009
-
- 4.6L V8 3V 4x2 8ft box Regular Cab,2010
-
- 4.6L V8 3V 4x4 5.5ft box SuperCab,2009
-
- 4.6L V8 3V 4x4 6.5ft box Regular Cab,2009
-
- 4.6L V8 3V 4x4 6.5ft box Regular Cab,2010
-
- 4.6L V8 3V 4x4 6.5ft box SuperCab,2009
-
- 4.6L V8 3V 4x4 6.5ft box SuperCab,2010
-
- 4.6L V8 3V 4x4 8ft box Regular Cab,2009
-
- 4.6L V8 3V 4x4 8ft box Regular Cab,2010
-
-5.0L V8 4x2 5.5 ft. SuperCrew,2015
-
-5.0L V8 4x2 6.5 ft. Regular,2015
-
-5.0L V8 4x2 6.5 ft. SuperCab,2015
-
-5.0L V8 4x2 6.5 ft. SuperCrew,2015
-
-5.0L V8 4x2 8 ft. Regular,2015
-
-5.0L V8 4x2 8 ft. SuperCab,2015
-
-5.0L V8 4x4 5.5 ft. SuperCrew,2015
-
-5.0L V8 4x4 6.5 ft. Regular,2015
-
-5.0L V8 4x4 6.5 ft. SuperCab,2015
-
-5.0L V8 4x4 6.5 ft. SuperCrew,2015
-
-5.0L V8 4x4 8 ft. Regular,2015
-
-5.0L V8 4x4 8 ft. SuperCab,2015
-
- 5.4L V8 3V 4x2 5.5ft box SuperCab,2009
-
- 5.4L V8 3V 4x2 6.5ft box SuperCab,2009
-
- 5.4L V8 3V 4x2 6.5ft box SuperCab,2010
-
- 5.4L V8 3V 4x2 8ft box LWB SuperCab,2009
-
- 5.4L V8 3V 4x2 8ft box LWB SuperCab,2010
-
- 5.4L V8 3V 4x2 8ft box Regular Cab,2009
-
- 5.4L V8 3V 4x2 8ft box Regular Cab,2010
-
- 5.4L V8 3V 4x4 5.5ft box SuperCab,2009
-
- 5.4L V8 3V 4x4 6.5ft box Regular Cab,2009
-
- 5.4L V8 3V 4x4 6.5ft box Regular Cab,2010
-
- 5.4L V8 3V 4x4 6.5ft box SuperCab,2009
-
- 5.4L V8 3V 4x4 6.5ft box SuperCab,2010
-
- 5.4L V8 3V 4x4 8ft box LWB SuperCab,2009
-
- 5.4L V8 3V 4x4 8ft box LWB SuperCab,2010
-
- 5.4L V8 3V 4x4 8ft box Regular Cab,2009
-
- 5.4L V8 3V 4x4 8ft box Regular Cab,2010
-
+verzija,leto
+T8R,2020
+T8R,2021
+1.1 ate97,1995
+1.1 ate97,1996
+1.1 ate97,1997
+1.1,1990
+1.1,1991
+1.1,1992
+1.1,1993
+1.1,1994
+1.1,1995
+1.4 GTi 16v MPI,1991
+1.4 GTi 16v MPI,1992
+1.4 GTi 16v MPI,1993
+1.4 GTi 16v MPI,1994
+1.4 GTi 16v MPI,1995
+1.4 GTi 16v,1990
+1.4 GTi 16v,1991
+1.4,1995
+1.4,1996
+1.4D,1994
+1.4D,1995
+1.6,1991
+1.6,1992
+1.6,1993
+1.6,1994
+1.8 75,1982
+1.8 75,1983
+1.8 75,1984
+1.8 75,1985
+1.8 75,1986
+1.8 90,1982
+1.8 90,1983
+1.8 90,1984
+1.8 90,1985
+1.8 90,1986
+1.8,1986
+1.8,1987
+1.8,1988
+1.9,1982
+1.9,1983
+1.9,1984
+2.0 16v,1992
+2.0 16v,1993
+2.0 16v,1994
+2.0 D,1988
+2.0 D,1989
+2.0 E 100,1991
+2.0 E 100,1992
+2.0 E 100,1993
+2.0 E 100,1994
+2.0 E,1988
+2.0 E,1989
+2.0 E,1990
+2.0 E,1991
+2.0 TD,1988
+2.0 TD,1989
+2.0,1984
+2.0,1985
+2.0,1986
+2.0E 116,1992
+2.0E 116,1993
+2.0E 116,1994
+2.1,1982
+2.1,1983
+2.1,1984
+2.2 Quattro,1984
+2.2 Quattro,1985
+2.2 Quattro,1986
+2.2 Sport quattro,1990
+2.2 Sport quattro,1991
+2.2 Turbo Quattro,1989
+2.2 Turbo Quattro,1990
+2.2 Turbo Quattro,1991
+2.2 Turbo,1989
+2.2 Turbo,1990
+2.2 Turbo,1991
+2.2,1982
+2.2,1983
+2.2,1984
+2.2,1985
+2.2,1986
+2.3 E Quattro,1991
+2.3 E Quattro,1992
+2.3 E,1991
+2.3 E,1992
+2.3 E,1993
+2.3 E,1994
+2.3 Quattro,1986
+2.3 Quattro,1987
+2.3 Quattro,1988
+2.4 D,1991
+2.4 D,1992
+2.4 D,1993
+2.4 D,1994
+2.5 TDI,1991
+2.5 TDI,1992
+2.5 TDI,1993
+2.5 TDI,1994
+2.6 E Quattro,1992
+2.6 E Quattro,1993
+2.6 E Quattro,1994
+2.6 E,1992
+2.6 E,1993
+2.6 E,1994
+2.8 E Quattro Automatic,1991
+2.8 E Quattro Automatic,1992
+2.8 E Quattro Automatic,1993
+2.8 E Quattro Automatic,1994
+2.8 E Quattro,1991
+2.8 E Quattro,1992
+2.8 E Quattro,1993
+2.8 E Quattro,1994
+2.8 E,1991
+2.8 E,1992
+2.8 E,1993
+2.8 E,1994
+5E,1977
+5E,1978
+5E,1979
+5E,1980
+5E,1981
+5E,1982
+1.1,1995
+1.1,1996
+1.8,1972
+1.8,1973
+1.8,1974
+1.8,1975
+1.8,1976
+1.6,1993
+1.6,1994
+1.6,1995
+1.6,1996
+2.0 GTi,1991
+2.0 GTi,1992
+2.0 GTi,1993
+S4 4.2,1993
+S4 4.2,1994
+S4,1991
+S4,1992
+S4,1993
+S4,1994
+1.4 HDi,2005
+1.4i 16v,2005
+1.4i,2005
+1.6i,2005
+1.0,1979
+1.0,1980
+1.0,1981
+1.0,1982
+1.0,1983
+Z,1981
+ZS,1982
+1050,1976
+1.0 XN,1996
+1.0 XN,1997
+1.0 XN,1998
+1.0 XN,1999
+1.0 XN,2000
+1.0i XN,1992
+1.0i XN,1993
+1.0i XN,1994
+1.0i XN,1995
+1.0i XN,1996
+1.1 XR - XT,1996
+1.1 XR - XT,1997
+1.1 XR - XT,1998
+1.1 XR - XT,1999
+1.1 XR - XT,2000
+1.1 XR - XT,2001
+1.1i XR - XT,1991
+1.1i XR - XT,1992
+1.1i XR - XT,1993
+1.1i XR - XT,1994
+1.1i XR - XT,1995
+1.1i XR - XT,1996
+1.4 D XN - XR,1993
+1.4 D XN - XR,1994
+1.4 XR - XT,2001
+1.4 XR - XT,2002
+1.4 XR - XT,2003
+1.4i XR - XT - XS,1991
+1.4i XR - XT - XS,1992
+1.4i XR - XT - XS,1993
+1.4i XR - XT - XS,1994
+1.4i XR - XT - XS,1995
+1.4i XR - XT - XS,1996
+1.5 D XR,1996
+1.5 D XR,1997
+1.5 D XR,1998
+1.5 D XR,1999
+1.5 D XR,2000
+1.5 D XR,2001
+1.6 XS,1996
+1.6 XS,1997
+1.6 XS,1998
+1.6i XT - XS,1994
+1.6i XT - XS,1995
+1.6i XT - XS,1996
+GTI 1.6 16v,1996
+GTI 1.6 16v,1997
+GTI 1.6 16v,1998
+GTI 1.6 16v,1999
+GTI 1.6 16v,2000
+GTI 1.6 16v,2001
+GTI 1.6 16v,2002
+GTI 1.6 16v,2003
+Rallye 1.3i,1993
+Rallye 1.3i,1994
+Rallye 1.3i,1995
+Rallye 1.3i,1996
+Rallye 1.6,1996
+Rallye 1.6,1997
+Rallye 1.6,1998
+XSi 1.6,1994
+XSi 1.6,1995
+XSi 1.6,1996
+XSi,1991
+XSi,1992
+XSi,1993
+XSi,1994
+1.0i,2005
+1.4 HDi,2005
+3doors Active 1.0 68HP,2012
+3doors Envy 1.0 68HP,2012
+3doors Trendy 1.0 68HP,2010
+3doors Urban 1.0 68HP,2010
+5doors Active 1.0 68HP 2Tronic,2012
+5doors Active 1.0 68HP,2012
+5doors Envy 1.0 68HP,2012
+5doors Trendy 1.0 68HP 2-Tronic,2010
+5doors Trendy 1.0 68HP,2010
+5doors Trendy 1.4 HDi 54HP,2010
+5doors Urban 1.0 68HP,2010
+3-door 1.0 e-VTi 72,2018
+3-door 1.0 e-VTi 72,2019
+3-door 1.0 e-VTi 72,2020
+3-door 1.0 e-VTi 72,2021
+3-doors 1.0 68HP,2014
+3-doors 1.0 68HP,2015
+3-doors 1.0 68HP,2016
+3-doors 1.0 68HP,2017
+3-doors 1.0 68HP,2018
+3-doors 1.0 VTi 68 ETG5,2014
+3-doors 1.0 VTi 68 ETG5,2015
+3-doors 1.0 VTi 68 ETG5,2016
+3-doors 1.0 VTi 68 ETG5,2017
+3-doors 1.0 VTi 68 ETG5,2018
+3-doors 1.2 PureTech 82,2014
+3-doors 1.2 PureTech 82,2015
+3-doors 1.2 PureTech 82,2016
+3-doors 1.2 PureTech 82,2017
+3-doors 1.2 PureTech 82,2018
+3-doors 1.2 VTi 82,2014
+3-doors 1.2 VTi 82,2015
+3-doors 1.2 VTi 82,2016
+3-doors 1.2 VTi 82,2017
+3-doors 1.2 VTi 82,2018
+3-doors e-VTi 68,2014
+3-doors e-VTi 68,2015
+3-doors e-VTi 68,2016
+3-doors e-VTi 68,2017
+3-doors e-VTi 68,2018
+3-doors VTi 68 ETG5,2014
+3-doors VTi 68 ETG5,2015
+3-doors VTi 68 ETG5,2016
+3-doors VTi 68 ETG5,2017
+3-doors VTi 68 ETG5,2018
+3-doors VTi 68,2014
+3-doors VTi 68,2015
+3-doors VTi 68,2016
+3-doors VTi 68,2017
+3-doors VTi 68,2018
+5-door 1.0 e-VTi 72 Auto,2018
+5-door 1.0 e-VTi 72 Auto,2019
+5-door 1.0 e-VTi 72 Auto,2020
+5-door 1.0 e-VTi 72 Auto,2021
+5-door 1.0 e-VTi 72,2018
+5-door 1.0 e-VTi 72,2019
+5-door 1.0 e-VTi 72,2020
+5-door 1.0 e-VTi 72,2021
+5-doors 1.0 68HP,2014
+5-doors 1.0 68HP,2015
+5-doors 1.0 68HP,2016
+5-doors 1.0 68HP,2017
+5-doors 1.0 68HP,2018
+5-doors 1.0 VTi 68 ETG5 Allure TOP!,2014
+5-doors 1.0 VTi 68 ETG5 Allure TOP!,2015
+5-doors 1.0 VTi 68 ETG5 Allure TOP!,2016
+5-doors 1.0 VTi 68 ETG5 Allure TOP!,2017
+5-doors 1.0 VTi 68 ETG5 Allure TOP!,2018
+5-doors 1.2 PureTech 82 Allure TOP!,2014
+5-doors 1.2 PureTech 82 Allure TOP!,2015
+5-doors 1.2 PureTech 82 Allure TOP!,2016
+5-doors 1.2 PureTech 82 Allure TOP!,2017
+5-doors 1.2 PureTech 82 Allure TOP!,2018
+5-doors 1.2 PureTech 82 Open TOP!,2015
+5-doors 1.2 PureTech 82 Open TOP!,2016
+5-doors 1.2 PureTech 82 Open TOP!,2017
+5-doors 1.2 PureTech 82 Open TOP!,2018
+5-doors 1.2 PureTech 82 Open,2015
+5-doors 1.2 PureTech 82 Open,2016
+5-doors 1.2 PureTech 82 Open,2017
+5-doors 1.2 PureTech 82 Open,2018
+5-doors 1.2 PureTech 82 Roland Garros TOP!,2015
+5-doors 1.2 PureTech 82 Roland Garros TOP!,2016
+5-doors 1.2 PureTech 82 Roland Garros TOP!,2017
+5-doors 1.2 PureTech 82 Roland Garros TOP!,2018
+5-doors 1.2 VTi 82,2014
+5-doors 1.2 VTi 82,2015
+5-doors 1.2 VTi 82,2016
+5-doors 1.2 VTi 82,2017
+5-doors 1.2 VTi 82,2018
+5-doors e-VTi 68,2014
+5-doors e-VTi 68,2015
+5-doors e-VTi 68,2016
+5-doors e-VTi 68,2017
+5-doors e-VTi 68,2018
+5-doors VTi 68 ETG5,2014
+5-doors VTi 68 ETG5,2015
+5-doors VTi 68 ETG5,2016
+5-doors VTi 68 ETG5,2017
+5-doors VTi 68 ETG5,2018
+5-doors VTi 68,2014
+5-doors VTi 68,2015
+5-doors VTi 68,2016
+5-doors VTi 68,2017
+5-doors VTi 68,2018
+1.8 TFSI Ultra 190HP S-tronic 7 Speeds,2014
+2.0 TDI Ultra 150HP S-tronic 7 Speeds,2014
+2.0 TDI Ultra 150HP,2014
+2.0 TDI ultra 190HP Quattro S-tronic 7 Speeds,2016
+2.0 TDI Ultra 190HP S-tronic 7 Speeds,2014
+2.0 TDI Ultra 190HP,2014
+2.0 TFSI 252HP Quattro S-tronic 7 Speeds,2016
+2.0 TFSI 252HP S-tronic 7 Speeds,2014
+3.0 Bi TDI 320HP Quattro Tiptronic 8 Speeds Competition,2016
+3.0 Bi TDI 320HP Quattro Tiptronic 8 Speeds,2014
+3.0 TDI 218HP Quattro S-tronic 7 Speeds,2016
+3.0 TDI 218HP S-tronic 7 Speeds,2016
+3.0 TDI 272HP Quattro S-tronic 7 Speeds,2014
+3.0 TFSI 333HP Quattro S-tronic 7 Speeds,2014
+S6 4.0 TFSI 450HP Quattro S-tronic 7 Speeds,2014
+2.7L EcoBoost V6 4x2 5.5 ft. SuperCrew,2015
+2.7L EcoBoost V6 4x2 6.5 ft. Regular,2015
+2.7L EcoBoost V6 4x2 6.5 ft. SuperCab,2015
+2.7L EcoBoost V6 4x2 6.5 ft. SuperCrew,2015
+2.7L EcoBoost V6 4x2 8 ft. Regular,2015
+2.7L EcoBoost V6 4x2 8 ft. SuperCab,2015
+2.7L EcoBoost V6 4x4 5.5 ft. SuperCrew,2015
+2.7L EcoBoost V6 4x4 6.5 ft. Regular,2015
+2.7L EcoBoost V6 4x4 6.5 ft. SuperCab,2015
+2.7L EcoBoost V6 4x4 8 ft. Regular,2015
+3.5L EcoBoost V6 4x2 5.5 ft. SuperCrew,2015
+3.5L EcoBoost V6 4x2 6.5 ft. SuperCab,2015
+3.5L EcoBoost V6 4x2 6.5 ft. SuperCrew,2015
+3.5L EcoBoost V6 4x2 8 ft. Regular,2015
+3.5L EcoBoost V6 4x2 8 ft. SuperCab,2015
+3.5L EcoBoost V6 4x4 5.5 ft. SuperCrew,2015
+3.5L EcoBoost V6 4x4 6.5 ft. SuperCab,2015
+3.5L EcoBoost V6 4x4 6.5 ft. SuperCrew,2015
+3.5L EcoBoost V6 4x4 8 ft. Regular,2015
+3.5L EcoBoost V6 4x4 8 ft. SuperCab,2015
+3.5L Ti-VCT V6 4x2 5.5 ft. SuperCrew,2015
+3.5L Ti-VCT V6 4x2 6.5 ft. Regular,2015
+3.5L Ti-VCT V6 4x2 6.5 ft. SuperCab,2015
+3.5L Ti-VCT V6 4x2 8 ft. Regular,2015
+3.5L TI-VCT V6 4x2 Regular 6.5ft,2015
+3.5L TI-VCT V6 4x2 Regular 8ft,2015
+3.5L Ti-VCT V6 4x4 5.5 ft. SuperCrew,2015
+3.5L Ti-VCT V6 4x4 6.5 ft. Regular,2015
+3.5L Ti-VCT V6 4x4 6.5 ft. SuperCab,2015
+3.5L Ti-VCT V6 4x4 8 ft. Regular,2015
+3.5L TI-VCT V6 4x4 Regular 6.5ft,2015
+3.5L TI-VCT V6 4x4 Regular 8ft,2015
+ 3.7L V6 4V Ti-VCT 4x2 6.5ft box Regular Cab,2011
+ 3.7L V6 4V Ti-VCT 4x2 6.5ft box Regular Cab,2012
+ 3.7L V6 4V Ti-VCT 4x2 6.5ft box Regular Cab,2013
+ 3.7L V6 4V Ti-VCT 4x2 6.5ft box Regular Cab,2014
+ 3.7L V6 4V Ti-VCT 4x2 6.5ft box SuperCab,2011
+ 3.7L V6 4V Ti-VCT 4x2 6.5ft box SuperCab,2012
+ 3.7L V6 4V Ti-VCT 4x2 6.5ft box SuperCab,2013
+ 3.7L V6 4V Ti-VCT 4x2 6.5ft box SuperCab,2014
+ 3.7L V6 4V Ti-VCT 4x2 8ft box Regular Cab,2011
+ 3.7L V6 4V Ti-VCT 4x2 8ft box Regular Cab,2012
+ 3.7L V6 4V Ti-VCT 4x2 8ft box Regular Cab,2013
+ 3.7L V6 4V Ti-VCT 4x2 8ft box Regular Cab,2014
+ 3.7L V6 4V Ti-VCT 4x4 6.5ft box Regular Cab,2011
+ 3.7L V6 4V Ti-VCT 4x4 6.5ft box Regular Cab,2012
+ 3.7L V6 4V Ti-VCT 4x4 6.5ft box Regular Cab,2013
+ 3.7L V6 4V Ti-VCT 4x4 6.5ft box Regular Cab,2014
+ 3.7L V6 4V Ti-VCT 4x4 8ft box Regular Cab,2011
+ 3.7L V6 4V Ti-VCT 4x4 8ft box Regular Cab,2012
+ 3.7L V6 4V Ti-VCT 4x4 8ft box Regular Cab,2013
+ 3.7L V6 4V Ti-VCT 4x4 8ft box Regular Cab,2014
+ 4.6L V8 2V 4x2 5.5ft box SuperCab,2009
+4.6L V8 2V 4x2 6.5 ft. Regular,2009
+4.6L V8 2V 4x2 6.5 ft. Regular,2010
+ 4.6L V8 2V 4x2 6.5ft box SuperCab,2009
+ 4.6L V8 2V 4x2 6.5ft box SuperCab,2010
+4.6L V8 2V 4x2 8 ft. Regular Cab,2009
+4.6L V8 2V 4x2 8 ft. Regular Cab,2010
+ 4.6L V8 2V 4x4 5.5ft box SuperCab,2009
+ 4.6L V8 2V 4x4 6.5ft box Regular Cab,2009
+ 4.6L V8 2V 4x4 6.5ft box Regular Cab,2010
+ 4.6L V8 2V 4x4 6.5ft box SuperCab,2009
+ 4.6L V8 2V 4x4 6.5ft box SuperCab,2010
+ 4.6L V8 2V 4x4 8ft box Regular Cab,2009
+ 4.6L V8 2V 4x4 8ft box Regular Cab,2010
+ 4.6L V8 3V 4x2 5.5ft box SuperCab,2009
+ 4.6L V8 3V 4x2 6.5ft box SuperCab,2009
+ 4.6L V8 3V 4x2 6.5ft box SuperCab,2010
+ 4.6L V8 3V 4x2 8ft box Regular Cab,2009
+ 4.6L V8 3V 4x2 8ft box Regular Cab,2010
+ 4.6L V8 3V 4x4 5.5ft box SuperCab,2009
+ 4.6L V8 3V 4x4 6.5ft box Regular Cab,2009
+ 4.6L V8 3V 4x4 6.5ft box Regular Cab,2010
+ 4.6L V8 3V 4x4 6.5ft box SuperCab,2009
+ 4.6L V8 3V 4x4 6.5ft box SuperCab,2010
+ 4.6L V8 3V 4x4 8ft box Regular Cab,2009
+ 4.6L V8 3V 4x4 8ft box Regular Cab,2010
+5.0L V8 4x2 5.5 ft. SuperCrew,2015
+5.0L V8 4x2 6.5 ft. Regular,2015
+5.0L V8 4x2 6.5 ft. SuperCab,2015
+5.0L V8 4x2 6.5 ft. SuperCrew,2015
+5.0L V8 4x2 8 ft. Regular,2015
+5.0L V8 4x2 8 ft. SuperCab,2015
+5.0L V8 4x4 5.5 ft. SuperCrew,2015
+5.0L V8 4x4 6.5 ft. Regular,2015
+5.0L V8 4x4 6.5 ft. SuperCab,2015
+5.0L V8 4x4 6.5 ft. SuperCrew,2015
+5.0L V8 4x4 8 ft. Regular,2015
+5.0L V8 4x4 8 ft. SuperCab,2015
+ 5.4L V8 3V 4x2 5.5ft box SuperCab,2009
+ 5.4L V8 3V 4x2 6.5ft box SuperCab,2009
+ 5.4L V8 3V 4x2 6.5ft box SuperCab,2010
+ 5.4L V8 3V 4x2 8ft box LWB SuperCab,2009
+ 5.4L V8 3V 4x2 8ft box LWB SuperCab,2010
+ 5.4L V8 3V 4x2 8ft box Regular Cab,2009
+ 5.4L V8 3V 4x2 8ft box Regular Cab,2010
+ 5.4L V8 3V 4x4 5.5ft box SuperCab,2009
+ 5.4L V8 3V 4x4 6.5ft box Regular Cab,2009
+ 5.4L V8 3V 4x4 6.5ft box Regular Cab,2010
+ 5.4L V8 3V 4x4 6.5ft box SuperCab,2009
+ 5.4L V8 3V 4x4 6.5ft box SuperCab,2010
+ 5.4L V8 3V 4x4 8ft box LWB SuperCab,2009
+ 5.4L V8 3V 4x4 8ft box LWB SuperCab,2010
+ 5.4L V8 3V 4x4 8ft box Regular Cab,2009
+ 5.4L V8 3V 4x4 8ft box Regular Cab,2010

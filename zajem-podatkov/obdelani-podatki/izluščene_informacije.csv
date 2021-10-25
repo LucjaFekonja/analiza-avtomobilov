@@ -1,244 +1,187 @@
-znamka,model,generacija,verzija,prvo leto proizvodnje,gorivo,poravnava motorja,prostornina motorja,moč motorja,prisilno polnenje motorja,pospesevanje,max hitrost,navor,emisije,poraba
-
-Polestar,1,,T8R,2020,hybrid_petrol,Transverse,1969,609,-,4.2,250.0,1000,15.0,1.3
-
-Audi,100,100 (type C4),1.6,1991,Petrol,Transverse,1595,102,N/A,12.9,180.0,127,,6.5
-
-Audi,100,100 (type C3),1.8 75,1982,Petrol,Longitudinal,1781,75,N/A,14.9,165.0,138,188.0,7.9
-
-Audi,100,100 (type C3),1.8 90,1982,Petrol,Longitudinal,1781,90,N/A,,165.0,145,,5.4
-
-Audi,100,100 (type C3),1.8,1986,Petrol,Longitudinal,1781,88,N/A,12.2,175.0,142,181.0,7.6
-
-Audi,100,100 (type C3),1.9,1982,Petrol,Longitudinal,1921,100,N/A,12.2,176.0,150,184.0,7.7
-
-Audi,100,100 (type C4),2.0 16v,1992,Petrol,Transverse,1984,140,N/A,10.1,204.0,185,,6.8
-
-Audi,100,100 (type C3),2.0 D,1988,Diesel,,1986,70,,17.9,155.0,123,,6.7
-
-Audi,100,100 (type C4),2.0 E 100,1991,Petrol,Longitudinal,1984,101,N/A,12.6,182.0,157,198.0,8.3
-
-Audi,100,100 (type C3),2.0 E,1988,Petrol,,1994,116,,10.7,190.0,172,,8.9
-
-Audi,100,100 (type C3),2.0 TD,1988,Diesel,,1986,100,,12.3,185.0,192,,6.7
-
-Audi,100,100 (type C3),2.0,1984,Petrol,Longitudinal,1994,115,N/A,10.7,190.0,170,212.0,8.9
-
-Audi,100,100 (type C4),2.0E 116,1992,Petrol,Longitudinal,1984,116,N/A,11.0,191.0,168,203.0,8.5
-
-Audi,100,100 (type C3),2.1,1982,Petrol,,2144,138,,,200.0,,,
-
-Audi,100,100 (type C3),2.2 Quattro,1984,Petrol,,2226,138,,9.7,202.0,188,,9.0
-
-Audi,100,100 (type C3),2.2 Sport quattro,1990,Petrol,,2309,136,,10.0,201.0,190,,6.9
-
-Audi,100,100 (type C3),2.2 Turbo Quattro,1989,Petrol,,2226,165,,8.0,216.0,240,,10.8
-
-Audi,100,100 (type C3),2.2 Turbo,1989,Petrol,,2226,165,,8.0,216.0,240,,9.7
-
-Audi,100,100 (type C3),2.2,1982,Petrol,,2226,138,,9.7,202.0,188,,9.0
-
-Audi,100,100 (type C4),2.3 E Quattro,1991,Petrol,Longitudinal,2309,133,N/A,10.4,202.0,186,236.0,9.9
-
-Audi,100,100 (type C4),2.3 E,1991,Petrol,Longitudinal,2309,133,N/A,10.2,202.0,186,227.0,9.5
-
-Audi,100,100 (type C3),2.3 Quattro,1986,Petrol,,2309,136,,10.0,201.0,190,,9.2
-
-Audi,100,100 (type C4),2.4 D,1991,Diesel,Longitudinal,2370,82,N/A,16.8,167.0,164,198.0,7.5
-
-Audi,100,100 (type C4),2.5 TDI,1991,Diesel,Transverse,2460,115,Turbo,11.1,195.0,265,166.0,6.3
-
-Audi,100,100 (type C4),2.6 E Quattro,1992,Petrol,Longitudinal,2598,150,N/A,9.7,210.0,225,248.0,10.4
-
-Audi,100,100 (type C4),2.6 E,1992,Petrol,Longitudinal,2598,150,N/A,9.5,210.0,225,224.0,9.4
-
-Audi,100,100 (type C4),2.8 E Quattro Automatic,1991,Petrol,Longitudinal,2771,174,N/A,,216.0,,,
-
-Audi,100,100 (type C4),2.8 E Quattro,1991,Petrol,Longitudinal,2771,174,N/A,8.0,218.0,250,251.0,10.5
-
-Audi,100,100 (type C4),2.8 E,1991,Petrol,Longitudinal,2771,174,N/A,8.0,218.0,250,224.0,9.4
-
-Audi,100,100 (type C2),5E,1977,Petrol,Longitudinal,2144,136,N/A,9.9,188.0,185,248.0,10.4
-
-Rover,100 Cabriolet,,1.1,1995,Petrol,Transverse,1120,60,N/A,14.8,155.0,90,148.0,6.2
-
-Audi,100,100 (type C4),S4 4.2,1993,Petrol,Longitudinal,4172,280,N/A,6.2,249.0,400,310.0,13.0
-
-Audi,100,100 (type C4),S4,1991,Petrol,Transverse,2226,230,Turbo,6.8,244.0,350,255.0,10.7
-
-Audi,A6,(C7 2015) A6,1.8 TFSI Ultra 190HP S-tronic 7 Speeds,2014,Petrol,Longitudinal,1798,190,Turbo,7.9,233.0,320,133.0,5.7
-
-Audi,A6,(C7 2015) A6,2.0 TDI Ultra 150HP S-tronic 7 Speeds,2014,Diesel,Longitudinal,1968,150,Turbo,9.6,214.0,350,110.0,4.2
-
-Audi,A6,(C7 2015) A6,2.0 TDI Ultra 150HP,2014,Diesel,Longitudinal,1968,150,Turbo,9.5,214.0,350,114.0,4.4
-
-Audi,A6,(C7 2015) A6,2.0 TDI ultra 190HP Quattro S-tronic 7 Speeds,2016,Diesel,Longitudinal,1968,190,Turbo,7.7,230.0,400,128.0,4.9
-
-Audi,A6,(C7 2015) A6,2.0 TDI Ultra 190HP S-tronic 7 Speeds,2014,Diesel,Longitudinal,1968,190,Turbo,8.2,232.0,400,110.0,4.2
-
-Audi,A6,(C7 2015) A6,2.0 TDI Ultra 190HP,2014,Diesel,Longitudinal,1968,190,Turbo,8.4,232.0,400,114.0,4.4
-
-Audi,A6,(C7 2015) A6,2.0 TFSI 252HP Quattro S-tronic 7 Speeds,2016,Petrol,Longitudinal,1984,252,Turbo,6.5,250.0,370,153.0,6.7
-
-Audi,A6,(C7 2015) A6,2.0 TFSI 252HP S-tronic 7 Speeds,2014,Petrol,Longitudinal,1984,252,Turbo,6.7,250.0,370,137.0,5.9
-
-Audi,A6,(C7 2015) A6,3.0 Bi TDI 320HP Quattro Tiptronic 8 Speeds Competition,2016,Diesel,Longitudinal,2967,326,Turbo,4.9,250.0,650,164.0,6.2
-
-Audi,A6,(C7 2015) A6,3.0 Bi TDI 320HP Quattro Tiptronic 8 Speeds,2014,Diesel,Longitudinal,2967,320,Turbo,5.0,250.0,650,159.0,6.0
-
-Audi,A6,(C7 2015) A6,3.0 TDI 218HP Quattro S-tronic 7 Speeds,2016,Diesel,Longitudinal,2967,218,Turbo,6.6,244.0,500,128.0,5.0
-
-Audi,A6,(C7 2015) A6,3.0 TDI 218HP S-tronic 7 Speeds,2016,Diesel,Longitudinal,2967,218,Turbo,7.1,245.0,400,114.0,4.4
-
-Audi,A6,(C7 2015) A6,3.0 TDI 272HP Quattro S-tronic 7 Speeds,2014,Diesel,Longitudinal,2967,272,Turbo,5.5,250.0,580,133.0,5.1
-
-Audi,A6,(C7 2015) A6,3.0 TFSI 333HP Quattro S-tronic 7 Speeds,2014,Petrol,Longitudinal,2995,333,Compressor,5.1,250.0,440,172.0,7.4
-
-Audi,A6,(C7 2015) A6,S6 4.0 TFSI 450HP Quattro S-tronic 7 Speeds,2014,Petrol,Longitudinal,3993,450,Turbo,4.4,250.0,550,214.0,9.2
-
-Ford,F-150,,2.7L EcoBoost V6 4x2 5.5 ft. SuperCrew,2015,Petrol,Longitudinal,2687,330,twin-turbo,,,508,255.0,10.7
-
-Ford,F-150,,2.7L EcoBoost V6 4x2 6.5 ft. Regular,2015,Petrol,Longitudinal,2687,330,twin-turbo,,,508,282.0,11.8
-
-Ford,F-150,,2.7L EcoBoost V6 4x2 6.5 ft. SuperCab,2015,Petrol,Longitudinal,2687,330,twin-turbo,,,508,255.0,10.7
-
-Ford,F-150,,2.7L EcoBoost V6 4x2 6.5 ft. SuperCrew,2015,Petrol,Longitudinal,2687,330,twin-turbo,,,508,255.0,10.7
-
-Ford,F-150,,2.7L EcoBoost V6 4x2 8 ft. Regular,2015,Petrol,Longitudinal,2687,330,twin-turbo,,,508,255.0,10.7
-
-Ford,F-150,,2.7L EcoBoost V6 4x2 8 ft. SuperCab,2015,Petrol,Longitudinal,2687,330,twin-turbo,,,508,255.0,10.7
-
-Ford,F-150,,2.7L EcoBoost V6 4x4 5.5 ft. SuperCrew,2015,Petrol,Longitudinal,2687,330,twin-turbo,,,508,282.0,11.8
-
-Ford,F-150,,2.7L EcoBoost V6 4x4 6.5 ft. Regular,2015,Petrol,Longitudinal,2687,330,twin-turbo,,,508,282.0,11.8
-
-Ford,F-150,,2.7L EcoBoost V6 4x4 6.5 ft. SuperCab,2015,Petrol,Longitudinal,2687,330,twin-turbo,,,508,282.0,11.8
-
-Ford,F-150,,2.7L EcoBoost V6 4x4 8 ft. Regular,2015,Petrol,Longitudinal,2687,330,twin-turbo,,,508,282.0,11.8
-
-Ford,F-150,,3.5L EcoBoost V6 4x2 5.5 ft. SuperCrew,2015,Petrol,Longitudinal,3490,370,twin-turbo,,,569,282.0,11.8
-
-Ford,F-150,,3.5L EcoBoost V6 4x2 6.5 ft. SuperCab,2015,Petrol,Longitudinal,3490,370,twin-turbo,,,569,282.0,11.8
-
-Ford,F-150,,3.5L EcoBoost V6 4x2 6.5 ft. SuperCrew,2015,Petrol,Longitudinal,3490,370,twin-turbo,,,569,282.0,11.8
-
-Ford,F-150,,3.5L EcoBoost V6 4x2 8 ft. Regular,2015,Petrol,Longitudinal,3490,370,twin-turbo,,,569,282.0,11.8
-
-Ford,F-150,,3.5L EcoBoost V6 4x2 8 ft. SuperCab,2015,Petrol,Longitudinal,3490,370,twin-turbo,,,569,282.0,11.8
-
-Ford,F-150,,3.5L EcoBoost V6 4x4 5.5 ft. SuperCrew,2015,Petrol,Longitudinal,3490,370,twin-turbo,,172.0,569,296.0,12.4
-
-Ford,F-150,,3.5L EcoBoost V6 4x4 6.5 ft. SuperCab,2015,Petrol,Longitudinal,3490,370,twin-turbo,,,569,296.0,12.4
-
-Ford,F-150,,3.5L EcoBoost V6 4x4 6.5 ft. SuperCrew,2015,Petrol,Longitudinal,3490,370,twin-turbo,,,569,296.0,12.4
-
-Ford,F-150,,3.5L EcoBoost V6 4x4 8 ft. Regular,2015,Petrol,Longitudinal,3490,370,twin-turbo,,,569,296.0,12.4
-
-Ford,F-150,,3.5L EcoBoost V6 4x4 8 ft. SuperCab,2015,Petrol,Longitudinal,3490,370,twin-turbo,,,569,296.0,12.4
-
-Ford,F-150,,3.5L Ti-VCT V6 4x2 5.5 ft. SuperCrew,2015,Petrol,Longitudinal,3490,286,Naturally,,,343,282.0,11.8
-
-Ford,F-150,,3.5L Ti-VCT V6 4x2 6.5 ft. Regular,2015,Petrol,Longitudinal,3490,286,Naturally,,,343,282.0,11.8
-
-Ford,F-150,,3.5L Ti-VCT V6 4x2 6.5 ft. SuperCab,2015,Petrol,Longitudinal,3490,286,Naturally,,,343,282.0,11.8
-
-Ford,F-150,,3.5L Ti-VCT V6 4x2 8 ft. Regular,2015,Petrol,Longitudinal,3490,286,Naturally,,,343,282.0,11.8
-
-Ford,F-150,,3.5L TI-VCT V6 4x2 Regular 6.5ft,2015,Petrol,Longitudinal,3490,286,N/A,,,343,296.0,12.4
-
-Ford,F-150,,3.5L TI-VCT V6 4x2 Regular 8ft,2015,Petrol,Longitudinal,3490,286,N/A,,,343,296.0,12.4
-
-Ford,F-150,,3.5L Ti-VCT V6 4x4 5.5 ft. SuperCrew,2015,Petrol,Longitudinal,3490,286,Naturally,,,343,296.0,12.4
-
-Ford,F-150,,3.5L Ti-VCT V6 4x4 6.5 ft. Regular,2015,Petrol,Longitudinal,3490,286,Naturally,,,253,296.0,12.4
-
-Ford,F-150,,3.5L Ti-VCT V6 4x4 6.5 ft. SuperCab,2015,Petrol,Longitudinal,3490,286,Naturally,,,343,296.0,12.4
-
-Ford,F-150,,3.5L Ti-VCT V6 4x4 8 ft. Regular,2015,Petrol,Longitudinal,3490,286,Naturally,,,343,296.0,12.4
-
-Ford,F-150,,3.5L TI-VCT V6 4x4 Regular 6.5ft,2015,Petrol,Longitudinal,3490,286,N/A,,,343,296.0,12.4
-
-Ford,F-150,,3.5L TI-VCT V6 4x4 Regular 8ft,2015,Petrol,Longitudinal,3490,286,N/A,,,343,296.0,12.4
-
-Ford,F-150,, 3.7L V6 4V Ti-VCT 4x2 6.5ft box Regular Cab,2011,Petrol,Longitudinal,3726,306,N/A,,,377,296.0,12.4
-
-Ford,F-150,, 3.7L V6 4V Ti-VCT 4x2 6.5ft box SuperCab,2011,Petrol,Longitudinal,3726,306,N/A,,,377,296.0,12.4
-
-Ford,F-150,, 3.7L V6 4V Ti-VCT 4x2 8ft box Regular Cab,2011,Petrol,Longitudinal,3726,306,N/A,,,377,296.0,12.4
-
-Ford,F-150,, 3.7L V6 4V Ti-VCT 4x4 6.5ft box Regular Cab,2011,Petrol,Longitudinal,3726,306,N/A,,,377,313.0,13.1
-
-Ford,F-150,, 3.7L V6 4V Ti-VCT 4x4 8ft box Regular Cab,2011,Petrol,Longitudinal,3726,306,N/A,,,377,313.0,13.1
-
-Ford,F-150,, 4.6L V8 2V 4x2 5.5ft box SuperCab,2009,Petrol,Longitudinal,4601,251,N/A,,,399,,
-
-Ford,F-150,,4.6L V8 2V 4x2 6.5 ft. Regular,2009,Petrol,Longitudinal,4601,248,naturally,,,,,
-
-Ford,F-150,, 4.6L V8 2V 4x2 6.5ft box SuperCab,2009,Petrol,Longitudinal,4601,251,N/A,,,399,,
-
-Ford,F-150,,4.6L V8 2V 4x2 8 ft. Regular Cab,2009,Petrol,Longitudinal,4601,251,naturally,,,,,
-
-Ford,F-150,, 4.6L V8 2V 4x4 5.5ft box SuperCab,2009,Petrol,Longitudinal,4601,251,N/A,,,399,,
-
-Ford,F-150,, 4.6L V8 2V 4x4 6.5ft box Regular Cab,2009,Petrol,Longitudinal,4601,251,N/A,,,399,,
-
-Ford,F-150,, 4.6L V8 2V 4x4 6.5ft box SuperCab,2009,Petrol,Longitudinal,4601,251,N/A,,,399,,
-
-Ford,F-150,, 4.6L V8 2V 4x4 8ft box Regular Cab,2009,Petrol,Longitudinal,4601,251,N/A,,,399,,
-
-Ford,F-150,, 4.6L V8 3V 4x2 5.5ft box SuperCab,2009,Petrol,Longitudinal,4601,296,N/A,,,434,,
-
-Ford,F-150,, 4.6L V8 3V 4x2 6.5ft box SuperCab,2009,Petrol,Longitudinal,4601,296,N/A,,,434,,
-
-Ford,F-150,, 4.6L V8 3V 4x2 8ft box Regular Cab,2009,Petrol,Longitudinal,4600,296,N/A,,,434,,
-
-Ford,F-150,, 4.6L V8 3V 4x4 5.5ft box SuperCab,2009,Petrol,Longitudinal,4601,296,N/A,,,434,,
-
-Ford,F-150,, 4.6L V8 3V 4x4 6.5ft box Regular Cab,2009,Petrol,Longitudinal,4601,296,N/A,,,434,,
-
-Ford,F-150,, 4.6L V8 3V 4x4 6.5ft box SuperCab,2009,Petrol,Longitudinal,4601,296,N/A,,,434,,
-
-Ford,F-150,, 4.6L V8 3V 4x4 8ft box Regular Cab,2009,Petrol,Longitudinal,4600,296,N/A,,,434,,
-
-Ford,F-150,,5.0L V8 4x2 5.5 ft. SuperCrew,2015,Petrol,Longitudinal,4949,390,Naturally,,,525,313.0,13.1
-
-Ford,F-150,,5.0L V8 4x2 6.5 ft. Regular,2015,Petrol,Longitudinal,4949,390,Naturally,,,525,313.0,13.1
-
-Ford,F-150,,5.0L V8 4x2 6.5 ft. SuperCab,2015,Petrol,Longitudinal,4949,390,Naturally,,,525,313.0,13.1
-
-Ford,F-150,,5.0L V8 4x2 6.5 ft. SuperCrew,2015,Petrol,Longitudinal,4949,390,Naturally,,,525,313.0,13.1
-
-Ford,F-150,,5.0L V8 4x2 8 ft. Regular,2015,Petrol,Longitudinal,4949,390,Naturally,,,525,313.0,13.1
-
-Ford,F-150,,5.0L V8 4x2 8 ft. SuperCab,2015,Petrol,Longitudinal,4949,390,Naturally,,,525,313.0,13.1
-
-Ford,F-150,,5.0L V8 4x4 5.5 ft. SuperCrew,2015,Petrol,Longitudinal,4949,390,Naturally,,,525,330.0,13.8
-
-Ford,F-150,,5.0L V8 4x4 6.5 ft. Regular,2015,Petrol,Longitudinal,4949,390,Naturally,,,525,330.0,13.8
-
-Ford,F-150,,5.0L V8 4x4 6.5 ft. SuperCab,2015,Petrol,Longitudinal,4949,390,Naturally,,,525,330.0,13.8
-
-Ford,F-150,,5.0L V8 4x4 6.5 ft. SuperCrew,2015,Petrol,Longitudinal,4949,390,Naturally,,,525,330.0,13.8
-
-Ford,F-150,,5.0L V8 4x4 8 ft. Regular,2015,Petrol,Longitudinal,4949,390,Naturally,,,525,330.0,13.8
-
-Ford,F-150,,5.0L V8 4x4 8 ft. SuperCab,2015,Petrol,Longitudinal,4949,390,Naturally,,,525,330.0,13.8
-
-Ford,F-150,, 5.4L V8 3V 4x2 5.5ft box SuperCab,2009,Petrol,Longitudinal,5408,314,N/A,,,495,,
-
-Ford,F-150,, 5.4L V8 3V 4x2 6.5ft box SuperCab,2009,Petrol,Longitudinal,5408,314,N/A,,,495,,
-
-Ford,F-150,, 5.4L V8 3V 4x2 8ft box LWB SuperCab,2009,Petrol,Longitudinal,5408,314,N/A,,,495,,
-
-Ford,F-150,, 5.4L V8 3V 4x2 8ft box Regular Cab,2009,Petrol,Longitudinal,5408,314,N/A,,,495,,
-
-Ford,F-150,, 5.4L V8 3V 4x4 5.5ft box SuperCab,2009,Petrol,Longitudinal,5408,314,N/A,,,495,,
-
-Ford,F-150,, 5.4L V8 3V 4x4 6.5ft box Regular Cab,2009,Petrol,Longitudinal,5408,314,N/A,,,495,,
-
-Ford,F-150,, 5.4L V8 3V 4x4 6.5ft box SuperCab,2009,Petrol,Longitudinal,5408,314,N/A,,,495,,
-
-Ford,F-150,, 5.4L V8 3V 4x4 8ft box LWB SuperCab,2009,Petrol,Longitudinal,5408,314,N/A,,,495,,
-
-Ford,F-150,, 5.4L V8 3V 4x4 8ft box Regular Cab,2009,Petrol,Longitudinal,5408,314,N/A,,,495,,
-
+znamka,model,generacija,verzija,prvo leto proizvodnje,gorivo,poravnava motorja,prostornina motorja,moč motorja,prisilno polnenje motorja,pospesevanje,max hitrost,navor,emisije,poraba
+Polestar,1,,T8R,2020,hybrid_petrol,Transverse,1969,609,-,4.2,250.0,1000,15.0,1.3
+Rover,100,,1.1 ate97,1995,Petrol,Transverse,1120,60,N/A,14.8,155.0,90,148.0,6.2
+Rover,100,,1.1,1990,Petrol,Transverse,1120,60,N/A,14.8,155.0,90,141.0,5.9
+Rover,100,,1.4 GTi 16v MPI,1991,Petrol,Transverse,1396,103,N/A,9.5,190.0,127,165.0,6.9
+Rover,100,,1.4 GTi 16v,1990,Petrol,Transverse,1396,90,N/A,9.8,183.0,120,155.0,6.5
+Rover,100,,1.4,1995,Petrol,Transverse,1396,75,N/A,10.9,170.0,117,150.0,6.3
+Rover,100,,1.4D,1994,Diesel,Transverse,1390,38,N/A,18.5,145.0,83,124.0,4.7
+Audi,100,100 (type C4),1.6,1991,Petrol,Transverse,1595,102,N/A,12.9,180.0,127,,6.5
+Audi,100,100 (type C3),1.8 75,1982,Petrol,Longitudinal,1781,75,N/A,14.9,165.0,138,188.0,7.9
+Audi,100,100 (type C3),1.8 90,1982,Petrol,Longitudinal,1781,90,N/A,,165.0,145,,5.4
+Audi,100,100 (type C3),1.8,1986,Petrol,Longitudinal,1781,88,N/A,12.2,175.0,142,181.0,7.6
+Audi,100,100 (type C3),1.9,1982,Petrol,Longitudinal,1921,100,N/A,12.2,176.0,150,184.0,7.7
+Audi,100,100 (type C4),2.0 16v,1992,Petrol,Transverse,1984,140,N/A,10.1,204.0,185,,6.8
+Audi,100,100 (type C3),2.0 D,1988,Diesel,,1986,70,,17.9,155.0,123,,6.7
+Audi,100,100 (type C4),2.0 E 100,1991,Petrol,Longitudinal,1984,101,N/A,12.6,182.0,157,198.0,8.3
+Audi,100,100 (type C3),2.0 E,1988,Petrol,,1994,116,,10.7,190.0,172,,8.9
+Audi,100,100 (type C3),2.0 TD,1988,Diesel,,1986,100,,12.3,185.0,192,,6.7
+Audi,100,100 (type C3),2.0,1984,Petrol,Longitudinal,1994,115,N/A,10.7,190.0,170,212.0,8.9
+Audi,100,100 (type C4),2.0E 116,1992,Petrol,Longitudinal,1984,116,N/A,11.0,191.0,168,203.0,8.5
+Audi,100,100 (type C3),2.1,1982,Petrol,,2144,138,,,200.0,,,
+Audi,100,100 (type C3),2.2 Quattro,1984,Petrol,,2226,138,,9.7,202.0,188,,9.0
+Audi,100,100 (type C3),2.2 Sport quattro,1990,Petrol,,2309,136,,10.0,201.0,190,,6.9
+Audi,100,100 (type C3),2.2 Turbo Quattro,1989,Petrol,,2226,165,,8.0,216.0,240,,10.8
+Audi,100,100 (type C3),2.2 Turbo,1989,Petrol,,2226,165,,8.0,216.0,240,,9.7
+Audi,100,100 (type C3),2.2,1982,Petrol,,2226,138,,9.7,202.0,188,,9.0
+Audi,100,100 (type C4),2.3 E Quattro,1991,Petrol,Longitudinal,2309,133,N/A,10.4,202.0,186,236.0,9.9
+Audi,100,100 (type C4),2.3 E,1991,Petrol,Longitudinal,2309,133,N/A,10.2,202.0,186,227.0,9.5
+Audi,100,100 (type C3),2.3 Quattro,1986,Petrol,,2309,136,,10.0,201.0,190,,9.2
+Audi,100,100 (type C4),2.4 D,1991,Diesel,Longitudinal,2370,82,N/A,16.8,167.0,164,198.0,7.5
+Audi,100,100 (type C4),2.5 TDI,1991,Diesel,Transverse,2460,115,Turbo,11.1,195.0,265,166.0,6.3
+Audi,100,100 (type C4),2.6 E Quattro,1992,Petrol,Longitudinal,2598,150,N/A,9.7,210.0,225,248.0,10.4
+Audi,100,100 (type C4),2.6 E,1992,Petrol,Longitudinal,2598,150,N/A,9.5,210.0,225,224.0,9.4
+Audi,100,100 (type C4),2.8 E Quattro Automatic,1991,Petrol,Longitudinal,2771,174,N/A,,216.0,,,
+Audi,100,100 (type C4),2.8 E Quattro,1991,Petrol,Longitudinal,2771,174,N/A,8.0,218.0,250,251.0,10.5
+Audi,100,100 (type C4),2.8 E,1991,Petrol,Longitudinal,2771,174,N/A,8.0,218.0,250,224.0,9.4
+Audi,100,100 (type C2),5E,1977,Petrol,Longitudinal,2144,136,N/A,9.9,188.0,185,248.0,10.4
+Rover,100 Cabriolet,,1.1,1995,Petrol,Transverse,1120,60,N/A,14.8,155.0,90,148.0,6.2
+Audi,100 Coupe S,,1.8,1972,Petrol,Longitudinal,1871,112,N/A,10.2,183.0,160,212.0,8.9
+Nissan,100 NX,,1.6,1993,Petrol,Transverse,1597,102,N/A,11.2,191.0,136,165.0,6.9
+Nissan,100 NX,,2.0 GTi,1991,Petrol,Transverse,1998,143,N/A,8.2,210.0,178,203.0,8.5
+Audi,100,100 (type C4),S4 4.2,1993,Petrol,Longitudinal,4172,280,N/A,6.2,249.0,400,310.0,13.0
+Audi,100,100 (type C4),S4,1991,Petrol,Transverse,2226,230,Turbo,6.8,244.0,350,255.0,10.7
+Peugeot,1007,,1.4 HDi,2005,Diesel,Transverse,1399,68,Turbo,15.4,160.0,160,115.0,4.4
+Peugeot,1007,,1.4i 16v,2005,Petrol,Transverse,1361,88,N/A,13.6,173.0,133,153.0,6.4
+Peugeot,1007,,1.4i,2005,Petrol,Transverse,1361,73,N/A,14.4,165.0,118,153.0,6.4
+Peugeot,1007,,1.6i,2005,Petrol,Transverse,1587,109,N/A,11.1,190.0,147,163.0,6.9
+Peugeot,104,,1.0,1979,Petrol,Transverse,954,45,N/A,20.0,128.0,62,,
+Peugeot,104,,Z,1981,Petrol,Transverse,1124,50,N/A,,138.0,84,,4.6
+Peugeot,104,,ZS,1982,Petrol,Transverse,1360,80,N/A,,164.0,110,,6.0
+Skoda,105,,1050,1976,Petrol,Longitudinal,1046,46,N/A,,128.0,74,,6.7
+Peugeot,106,,1.0 XN,1996,Petrol,Transverse,954,50,N/A,19.2,150.0,74,148.0,6.2
+Peugeot,106,,1.0i XN,1992,Petrol,Transverse,954,50,N/A,19.0,150.0,74,150.0,6.3
+Peugeot,106,,1.1 XR - XT,1996,Petrol,Transverse,1124,60,N/A,13.7,165.0,88,160.0,6.7
+Peugeot,106,,1.1i XR - XT,1991,Petrol,Transverse,1124,60,N/A,13.7,165.0,88,153.0,6.4
+Peugeot,106,,1.4 D XN - XR,1993,Diesel,Transverse,1360,50,N/A,21.0,145.0,82,126.0,4.8
+Peugeot,106,,1.4 XR - XT,2001,Petrol,Transverse,1360,75,N/A,13.2,177.0,120,152.0,6.4
+Peugeot,106,,1.4i XR - XT - XS,1991,Petrol,Transverse,1360,75,N/A,11.4,175.0,111,162.0,6.8
+Peugeot,106,,1.5 D XR,1996,Diesel,Transverse,1527,58,N/A,18.5,158.0,95,139.0,5.3
+Peugeot,106,,1.6 XS,1996,Petrol,Transverse,1587,90,N/A,12.2,185.0,135,172.0,7.2
+Peugeot,106,,1.6i XT - XS,1994,Petrol,Transverse,1587,90,N/A,10.4,180.0,135,162.0,6.8
+Peugeot,106,,GTI 1.6 16v,1996,Petrol,Transverse,1587,120,N/A,8.7,205.0,145,201.0,8.5
+Peugeot,106,,Rallye 1.3i,1993,Petrol,Transverse,1294,101,N/A,10.3,190.0,108,186.0,7.8
+Peugeot,106,,Rallye 1.6,1996,Petrol,Transverse,1587,103,N/A,9.6,195.0,132,200.0,8.4
+Peugeot,106,,XSi 1.6,1994,Petrol,Transverse,1587,105,N/A,10.0,195.0,135,181.0,7.6
+Peugeot,106,,XSi,1991,Petrol,Transverse,1360,95,N/A,10.0,187.0,117,177.0,7.4
+Peugeot,107,,1.0i,2005,Petrol,Transverse,998,68,N/A,13.7,157.0,93,109.0,4.6
+Peugeot,107,,1.4 HDi,2005,Diesel,Transverse,1399,54,Turbo,15.6,154.0,130,109.0,4.1
+Peugeot,107,,3doors Active 1.0 68HP,2012,Petrol,Transverse,998,68,N/A,12.3,157.0,93,99.0,4.3
+Peugeot,107,,3doors Envy 1.0 68HP,2012,Petrol,Transverse,998,68,N/A,12.3,157.0,93,99.0,4.3
+Peugeot,107,,3doors Trendy 1.0 68HP,2010,Petrol,Transverse,998,68,N/A,13.7,157.0,93,106.0,4.5
+Peugeot,107,,3doors Urban 1.0 68HP,2010,Petrol,Transverse,998,68,N/A,13.7,157.0,93,106.0,4.5
+Peugeot,107,,5doors Active 1.0 68HP 2Tronic,2012,Petrol,Transverse,998,68,N/A,14.0,157.0,93,104.0,4.5
+Peugeot,107,,5doors Active 1.0 68HP,2012,Petrol,Transverse,998,68,N/A,12.3,157.0,93,99.0,4.3
+Peugeot,107,,5doors Envy 1.0 68HP,2012,Petrol,Transverse,998,68,N/A,12.3,157.0,93,99.0,4.3
+Peugeot,107,,5doors Trendy 1.0 68HP 2-Tronic,2010,Petrol,Transverse,998,68,N/A,14.0,157.0,93,107.0,4.6
+Peugeot,107,,5doors Trendy 1.0 68HP,2010,Petrol,Transverse,998,68,N/A,13.7,157.0,93,106.0,4.5
+Peugeot,107,,5doors Trendy 1.4 HDi 54HP,2010,Diesel,Transverse,1399,54,Turbo,15.6,154.0,130,109.0,4.1
+Peugeot,107,,5doors Urban 1.0 68HP,2010,Petrol,Transverse,998,68,N/A,13.7,157.0,93,106.0,4.5
+Peugeot,108,,3-door 1.0 e-VTi 72,2018,Petrol,Transverse,998,72,-,12.6,160.0,93,86.0,3.8
+Peugeot,108,,3-doors 1.0 68HP,2014,Petrol,Transverse,998,68,N/A,12.3,157.0,93,99.0,4.3
+Peugeot,108,,3-doors 1.0 VTi 68 ETG5,2014,Petrol,Transverse,998,69,N/A,15.9,157.0,96,97.0,4.2
+Peugeot,108,,3-doors 1.2 PureTech 82,2014,Petrol,Transverse,1199,82,N/A,10.9,170.0,118,99.0,4.3
+Peugeot,108,,3-doors 1.2 VTi 82,2014,Petrol,Transverse,1199,82,N/A,11.0,170.0,118,99.0,4.3
+Peugeot,108,,3-doors e-VTi 68,2014,Petrol,Transverse,998,69,N/A,,157.0,96,88.0,3.8
+Peugeot,108,,3-doors VTi 68 ETG5,2014,Petrol,Transverse,998,69,N/A,,157.0,96,97.0,4.2
+Peugeot,108,,3-doors VTi 68,2014,Petrol,Transverse,998,69,N/A,,157.0,96,95.0,4.1
+Peugeot,108,,5-door 1.0 e-VTi 72 Auto,2018,Petrol,Transverse,998,72,-,15.7,160.0,93,95.0,4.2
+Peugeot,108,,5-door 1.0 e-VTi 72,2018,Petrol,Transverse,998,72,-,12.6,160.0,93,86.0,3.8
+Peugeot,108,,5-doors 1.0 68HP,2014,Petrol,Transverse,998,68,N/A,12.3,157.0,93,99.0,4.3
+Peugeot,108,,5-doors 1.0 VTi 68 ETG5 Allure TOP!,2014,Petrol,Transverse,998,69,N/A,15.9,157.0,96,97.0,4.2
+Peugeot,108,,5-doors 1.2 PureTech 82 Allure TOP!,2014,Petrol,Transverse,1199,82,N/A,10.9,170.0,118,99.0,4.3
+Peugeot,108,,5-doors 1.2 PureTech 82 Open TOP!,2015,Petrol,Transverse,1199,82,N/A,10.9,170.0,116,99.0,4.3
+Peugeot,108,,5-doors 1.2 PureTech 82 Open,2015,Petrol,Transverse,1199,82,N/A,10.9,170.0,116,99.0,4.3
+Peugeot,108,,5-doors 1.2 PureTech 82 Roland Garros TOP!,2015,Petrol,Transverse,1199,82,N/A,10.9,170.0,116,99.0,4.3
+Peugeot,108,,5-doors 1.2 VTi 82,2014,Petrol,Transverse,1199,82,N/A,11.0,170.0,118,99.0,4.3
+Peugeot,108,,5-doors e-VTi 68,2014,Petrol,Transverse,998,69,N/A,,157.0,96,88.0,3.8
+Peugeot,108,,5-doors VTi 68 ETG5,2014,Petrol,Transverse,998,69,N/A,,157.0,96,97.0,4.2
+Peugeot,108,,5-doors VTi 68,2014,Petrol,Transverse,998,69,N/A,,157.0,96,95.0,4.1
+Audi,A6,(C7 2015) A6,1.8 TFSI Ultra 190HP S-tronic 7 Speeds,2014,Petrol,Longitudinal,1798,190,Turbo,7.9,233.0,320,133.0,5.7
+Audi,A6,(C7 2015) A6,2.0 TDI Ultra 150HP S-tronic 7 Speeds,2014,Diesel,Longitudinal,1968,150,Turbo,9.6,214.0,350,110.0,4.2
+Audi,A6,(C7 2015) A6,2.0 TDI Ultra 150HP,2014,Diesel,Longitudinal,1968,150,Turbo,9.5,214.0,350,114.0,4.4
+Audi,A6,(C7 2015) A6,2.0 TDI ultra 190HP Quattro S-tronic 7 Speeds,2016,Diesel,Longitudinal,1968,190,Turbo,7.7,230.0,400,128.0,4.9
+Audi,A6,(C7 2015) A6,2.0 TDI Ultra 190HP S-tronic 7 Speeds,2014,Diesel,Longitudinal,1968,190,Turbo,8.2,232.0,400,110.0,4.2
+Audi,A6,(C7 2015) A6,2.0 TDI Ultra 190HP,2014,Diesel,Longitudinal,1968,190,Turbo,8.4,232.0,400,114.0,4.4
+Audi,A6,(C7 2015) A6,2.0 TFSI 252HP Quattro S-tronic 7 Speeds,2016,Petrol,Longitudinal,1984,252,Turbo,6.5,250.0,370,153.0,6.7
+Audi,A6,(C7 2015) A6,2.0 TFSI 252HP S-tronic 7 Speeds,2014,Petrol,Longitudinal,1984,252,Turbo,6.7,250.0,370,137.0,5.9
+Audi,A6,(C7 2015) A6,3.0 Bi TDI 320HP Quattro Tiptronic 8 Speeds Competition,2016,Diesel,Longitudinal,2967,326,Turbo,4.9,250.0,650,164.0,6.2
+Audi,A6,(C7 2015) A6,3.0 Bi TDI 320HP Quattro Tiptronic 8 Speeds,2014,Diesel,Longitudinal,2967,320,Turbo,5.0,250.0,650,159.0,6.0
+Audi,A6,(C7 2015) A6,3.0 TDI 218HP Quattro S-tronic 7 Speeds,2016,Diesel,Longitudinal,2967,218,Turbo,6.6,244.0,500,128.0,5.0
+Audi,A6,(C7 2015) A6,3.0 TDI 218HP S-tronic 7 Speeds,2016,Diesel,Longitudinal,2967,218,Turbo,7.1,245.0,400,114.0,4.4
+Audi,A6,(C7 2015) A6,3.0 TDI 272HP Quattro S-tronic 7 Speeds,2014,Diesel,Longitudinal,2967,272,Turbo,5.5,250.0,580,133.0,5.1
+Audi,A6,(C7 2015) A6,3.0 TFSI 333HP Quattro S-tronic 7 Speeds,2014,Petrol,Longitudinal,2995,333,Compressor,5.1,250.0,440,172.0,7.4
+Audi,A6,(C7 2015) A6,S6 4.0 TFSI 450HP Quattro S-tronic 7 Speeds,2014,Petrol,Longitudinal,3993,450,Turbo,4.4,250.0,550,214.0,9.2
+Ford,F-150,,2.7L EcoBoost V6 4x2 5.5 ft. SuperCrew,2015,Petrol,Longitudinal,2687,330,twin-turbo,,,508,255.0,10.7
+Ford,F-150,,2.7L EcoBoost V6 4x2 6.5 ft. Regular,2015,Petrol,Longitudinal,2687,330,twin-turbo,,,508,282.0,11.8
+Ford,F-150,,2.7L EcoBoost V6 4x2 6.5 ft. SuperCab,2015,Petrol,Longitudinal,2687,330,twin-turbo,,,508,255.0,10.7
+Ford,F-150,,2.7L EcoBoost V6 4x2 6.5 ft. SuperCrew,2015,Petrol,Longitudinal,2687,330,twin-turbo,,,508,255.0,10.7
+Ford,F-150,,2.7L EcoBoost V6 4x2 8 ft. Regular,2015,Petrol,Longitudinal,2687,330,twin-turbo,,,508,255.0,10.7
+Ford,F-150,,2.7L EcoBoost V6 4x2 8 ft. SuperCab,2015,Petrol,Longitudinal,2687,330,twin-turbo,,,508,255.0,10.7
+Ford,F-150,,2.7L EcoBoost V6 4x4 5.5 ft. SuperCrew,2015,Petrol,Longitudinal,2687,330,twin-turbo,,,508,282.0,11.8
+Ford,F-150,,2.7L EcoBoost V6 4x4 6.5 ft. Regular,2015,Petrol,Longitudinal,2687,330,twin-turbo,,,508,282.0,11.8
+Ford,F-150,,2.7L EcoBoost V6 4x4 6.5 ft. SuperCab,2015,Petrol,Longitudinal,2687,330,twin-turbo,,,508,282.0,11.8
+Ford,F-150,,2.7L EcoBoost V6 4x4 8 ft. Regular,2015,Petrol,Longitudinal,2687,330,twin-turbo,,,508,282.0,11.8
+Ford,F-150,,3.5L EcoBoost V6 4x2 5.5 ft. SuperCrew,2015,Petrol,Longitudinal,3490,370,twin-turbo,,,569,282.0,11.8
+Ford,F-150,,3.5L EcoBoost V6 4x2 6.5 ft. SuperCab,2015,Petrol,Longitudinal,3490,370,twin-turbo,,,569,282.0,11.8
+Ford,F-150,,3.5L EcoBoost V6 4x2 6.5 ft. SuperCrew,2015,Petrol,Longitudinal,3490,370,twin-turbo,,,569,282.0,11.8
+Ford,F-150,,3.5L EcoBoost V6 4x2 8 ft. Regular,2015,Petrol,Longitudinal,3490,370,twin-turbo,,,569,282.0,11.8
+Ford,F-150,,3.5L EcoBoost V6 4x2 8 ft. SuperCab,2015,Petrol,Longitudinal,3490,370,twin-turbo,,,569,282.0,11.8
+Ford,F-150,,3.5L EcoBoost V6 4x4 5.5 ft. SuperCrew,2015,Petrol,Longitudinal,3490,370,twin-turbo,,172.0,569,296.0,12.4
+Ford,F-150,,3.5L EcoBoost V6 4x4 6.5 ft. SuperCab,2015,Petrol,Longitudinal,3490,370,twin-turbo,,,569,296.0,12.4
+Ford,F-150,,3.5L EcoBoost V6 4x4 6.5 ft. SuperCrew,2015,Petrol,Longitudinal,3490,370,twin-turbo,,,569,296.0,12.4
+Ford,F-150,,3.5L EcoBoost V6 4x4 8 ft. Regular,2015,Petrol,Longitudinal,3490,370,twin-turbo,,,569,296.0,12.4
+Ford,F-150,,3.5L EcoBoost V6 4x4 8 ft. SuperCab,2015,Petrol,Longitudinal,3490,370,twin-turbo,,,569,296.0,12.4
+Ford,F-150,,3.5L Ti-VCT V6 4x2 5.5 ft. SuperCrew,2015,Petrol,Longitudinal,3490,286,Naturally,,,343,282.0,11.8
+Ford,F-150,,3.5L Ti-VCT V6 4x2 6.5 ft. Regular,2015,Petrol,Longitudinal,3490,286,Naturally,,,343,282.0,11.8
+Ford,F-150,,3.5L Ti-VCT V6 4x2 6.5 ft. SuperCab,2015,Petrol,Longitudinal,3490,286,Naturally,,,343,282.0,11.8
+Ford,F-150,,3.5L Ti-VCT V6 4x2 8 ft. Regular,2015,Petrol,Longitudinal,3490,286,Naturally,,,343,282.0,11.8
+Ford,F-150,,3.5L TI-VCT V6 4x2 Regular 6.5ft,2015,Petrol,Longitudinal,3490,286,N/A,,,343,296.0,12.4
+Ford,F-150,,3.5L TI-VCT V6 4x2 Regular 8ft,2015,Petrol,Longitudinal,3490,286,N/A,,,343,296.0,12.4
+Ford,F-150,,3.5L Ti-VCT V6 4x4 5.5 ft. SuperCrew,2015,Petrol,Longitudinal,3490,286,Naturally,,,343,296.0,12.4
+Ford,F-150,,3.5L Ti-VCT V6 4x4 6.5 ft. Regular,2015,Petrol,Longitudinal,3490,286,Naturally,,,253,296.0,12.4
+Ford,F-150,,3.5L Ti-VCT V6 4x4 6.5 ft. SuperCab,2015,Petrol,Longitudinal,3490,286,Naturally,,,343,296.0,12.4
+Ford,F-150,,3.5L Ti-VCT V6 4x4 8 ft. Regular,2015,Petrol,Longitudinal,3490,286,Naturally,,,343,296.0,12.4
+Ford,F-150,,3.5L TI-VCT V6 4x4 Regular 6.5ft,2015,Petrol,Longitudinal,3490,286,N/A,,,343,296.0,12.4
+Ford,F-150,,3.5L TI-VCT V6 4x4 Regular 8ft,2015,Petrol,Longitudinal,3490,286,N/A,,,343,296.0,12.4
+Ford,F-150,, 3.7L V6 4V Ti-VCT 4x2 6.5ft box Regular Cab,2011,Petrol,Longitudinal,3726,306,N/A,,,377,296.0,12.4
+Ford,F-150,, 3.7L V6 4V Ti-VCT 4x2 6.5ft box SuperCab,2011,Petrol,Longitudinal,3726,306,N/A,,,377,296.0,12.4
+Ford,F-150,, 3.7L V6 4V Ti-VCT 4x2 8ft box Regular Cab,2011,Petrol,Longitudinal,3726,306,N/A,,,377,296.0,12.4
+Ford,F-150,, 3.7L V6 4V Ti-VCT 4x4 6.5ft box Regular Cab,2011,Petrol,Longitudinal,3726,306,N/A,,,377,313.0,13.1
+Ford,F-150,, 3.7L V6 4V Ti-VCT 4x4 8ft box Regular Cab,2011,Petrol,Longitudinal,3726,306,N/A,,,377,313.0,13.1
+Ford,F-150,, 4.6L V8 2V 4x2 5.5ft box SuperCab,2009,Petrol,Longitudinal,4601,251,N/A,,,399,,
+Ford,F-150,,4.6L V8 2V 4x2 6.5 ft. Regular,2009,Petrol,Longitudinal,4601,248,naturally,,,,,
+Ford,F-150,, 4.6L V8 2V 4x2 6.5ft box SuperCab,2009,Petrol,Longitudinal,4601,251,N/A,,,399,,
+Ford,F-150,,4.6L V8 2V 4x2 8 ft. Regular Cab,2009,Petrol,Longitudinal,4601,251,naturally,,,,,
+Ford,F-150,, 4.6L V8 2V 4x4 5.5ft box SuperCab,2009,Petrol,Longitudinal,4601,251,N/A,,,399,,
+Ford,F-150,, 4.6L V8 2V 4x4 6.5ft box Regular Cab,2009,Petrol,Longitudinal,4601,251,N/A,,,399,,
+Ford,F-150,, 4.6L V8 2V 4x4 6.5ft box SuperCab,2009,Petrol,Longitudinal,4601,251,N/A,,,399,,
+Ford,F-150,, 4.6L V8 2V 4x4 8ft box Regular Cab,2009,Petrol,Longitudinal,4601,251,N/A,,,399,,
+Ford,F-150,, 4.6L V8 3V 4x2 5.5ft box SuperCab,2009,Petrol,Longitudinal,4601,296,N/A,,,434,,
+Ford,F-150,, 4.6L V8 3V 4x2 6.5ft box SuperCab,2009,Petrol,Longitudinal,4601,296,N/A,,,434,,
+Ford,F-150,, 4.6L V8 3V 4x2 8ft box Regular Cab,2009,Petrol,Longitudinal,4600,296,N/A,,,434,,
+Ford,F-150,, 4.6L V8 3V 4x4 5.5ft box SuperCab,2009,Petrol,Longitudinal,4601,296,N/A,,,434,,
+Ford,F-150,, 4.6L V8 3V 4x4 6.5ft box Regular Cab,2009,Petrol,Longitudinal,4601,296,N/A,,,434,,
+Ford,F-150,, 4.6L V8 3V 4x4 6.5ft box SuperCab,2009,Petrol,Longitudinal,4601,296,N/A,,,434,,
+Ford,F-150,, 4.6L V8 3V 4x4 8ft box Regular Cab,2009,Petrol,Longitudinal,4600,296,N/A,,,434,,
+Ford,F-150,,5.0L V8 4x2 5.5 ft. SuperCrew,2015,Petrol,Longitudinal,4949,390,Naturally,,,525,313.0,13.1
+Ford,F-150,,5.0L V8 4x2 6.5 ft. Regular,2015,Petrol,Longitudinal,4949,390,Naturally,,,525,313.0,13.1
+Ford,F-150,,5.0L V8 4x2 6.5 ft. SuperCab,2015,Petrol,Longitudinal,4949,390,Naturally,,,525,313.0,13.1
+Ford,F-150,,5.0L V8 4x2 6.5 ft. SuperCrew,2015,Petrol,Longitudinal,4949,390,Naturally,,,525,313.0,13.1
+Ford,F-150,,5.0L V8 4x2 8 ft. Regular,2015,Petrol,Longitudinal,4949,390,Naturally,,,525,313.0,13.1
+Ford,F-150,,5.0L V8 4x2 8 ft. SuperCab,2015,Petrol,Longitudinal,4949,390,Naturally,,,525,313.0,13.1
+Ford,F-150,,5.0L V8 4x4 5.5 ft. SuperCrew,2015,Petrol,Longitudinal,4949,390,Naturally,,,525,330.0,13.8
+Ford,F-150,,5.0L V8 4x4 6.5 ft. Regular,2015,Petrol,Longitudinal,4949,390,Naturally,,,525,330.0,13.8
+Ford,F-150,,5.0L V8 4x4 6.5 ft. SuperCab,2015,Petrol,Longitudinal,4949,390,Naturally,,,525,330.0,13.8
+Ford,F-150,,5.0L V8 4x4 6.5 ft. SuperCrew,2015,Petrol,Longitudinal,4949,390,Naturally,,,525,330.0,13.8
+Ford,F-150,,5.0L V8 4x4 8 ft. Regular,2015,Petrol,Longitudinal,4949,390,Naturally,,,525,330.0,13.8
+Ford,F-150,,5.0L V8 4x4 8 ft. SuperCab,2015,Petrol,Longitudinal,4949,390,Naturally,,,525,330.0,13.8
+Ford,F-150,, 5.4L V8 3V 4x2 5.5ft box SuperCab,2009,Petrol,Longitudinal,5408,314,N/A,,,495,,
+Ford,F-150,, 5.4L V8 3V 4x2 6.5ft box SuperCab,2009,Petrol,Longitudinal,5408,314,N/A,,,495,,
+Ford,F-150,, 5.4L V8 3V 4x2 8ft box LWB SuperCab,2009,Petrol,Longitudinal,5408,314,N/A,,,495,,
+Ford,F-150,, 5.4L V8 3V 4x2 8ft box Regular Cab,2009,Petrol,Longitudinal,5408,314,N/A,,,495,,
+Ford,F-150,, 5.4L V8 3V 4x4 5.5ft box SuperCab,2009,Petrol,Longitudinal,5408,314,N/A,,,495,,
+Ford,F-150,, 5.4L V8 3V 4x4 6.5ft box Regular Cab,2009,Petrol,Longitudinal,5408,314,N/A,,,495,,
+Ford,F-150,, 5.4L V8 3V 4x4 6.5ft box SuperCab,2009,Petrol,Longitudinal,5408,314,N/A,,,495,,
+Ford,F-150,, 5.4L V8 3V 4x4 8ft box LWB SuperCab,2009,Petrol,Longitudinal,5408,314,N/A,,,495,,
+Ford,F-150,, 5.4L V8 3V 4x4 8ft box Regular Cab,2009,Petrol,Longitudinal,5408,314,N/A,,,495,,
