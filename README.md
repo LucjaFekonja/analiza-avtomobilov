@@ -26,7 +26,7 @@ Za vsak avtomobil me zanimajo naslednje lastnosti:
 - poraba pri kombinirani, avtocestni in mestni vožnji
 
 V analizi bi rada odgovorila na naslednja vprašanja:
-1. Katerih vrst motorja je največ?
+1. Katerih vrst goriva je največ?
 2. Je pozicija motorja odvisna od njegove velikosti ali od velikosti vozila?
 3. Imajo superchargerji ali turbo motorji večjo moč?
 4. Kako navor vpliva na pospeševanje do 100 km/h?
