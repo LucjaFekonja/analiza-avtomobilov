@@ -98,7 +98,13 @@ vzorec_teze = (
 	r'"value": "(?P<teza>\d*?)"'
 )
 
-vzorec_emisije = r'"emissionsCO2": "(?P<emisije>\d*?)"'
+vzorec_emisije = r'"emissionsCO2": "(?P<emisije>[\d\.]*?)"'
+
+vzorec_emisije_2 = (
+    r'<td class="tabletd" align="right"> '
+    r'CO2 emissions : </td> '
+    r'<td class="tabletd_right"> (?P<emisije>[\d\.]*?) g/Km \(estimate\) </td>'
+)
 
 vzorec_porabe = r'Average consumption:(?P<poraba>[\d\.]*?) l/100km'
 
@@ -178,7 +184,6 @@ def ustvari_seznam_lastnosti():
             max_hitrost_2 = re.search(vzorec_max_hitrost_2, vsebina)
             slovar['max hitrost'] = float(max_hitrost_2.group('max_hitrost'))
  
-
         if re.search(vzorec_navora, vsebina):
             navor = re.search(vzorec_navora, vsebina)
             slovar['navor'] = int(navor.group('navor'))
@@ -198,6 +203,9 @@ def ustvari_seznam_lastnosti():
 
         if re.search(vzorec_emisije, vsebina):
             emisije = re.search(vzorec_emisije, vsebina)
+            slovar['emisije'] = float(emisije.group('emisije'))
+        elif re.search(vzorec_emisije_2, vsebina):
+            emisije = re.search(vzorec_emisije_2, vsebina)
             slovar['emisije'] = float(emisije.group('emisije'))
 
         poraba1 = re.search(vzorec_porabe, vsebina)
