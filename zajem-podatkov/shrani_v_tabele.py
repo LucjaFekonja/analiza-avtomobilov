@@ -86,9 +86,9 @@ vzorec_max_hitrost_2 = (
 )
 
 vzorec_dimenzije = (
-    r'Dimensions: Length:(?P<dolzina>[\d\.]*?) cm .*?; ?'
-    r'Width:(?P<sirina>[\d\.]*?) cm .*?; ?'
-    r'Height:(?P<visina>[\d\.]*?) cm'
+    r'Dimensions: Length:(?P<dolzina>[\d\.]+?) cm .*?; ?'
+    r'Width:(?P<sirina>[\d\.]+?) cm .*?; ?'
+    r'Height:(?P<visina>[\d\.]+?) cm'
 )
 
 vzorec_teze = (
@@ -188,14 +188,17 @@ def ustvari_seznam_lastnosti():
             navor = re.search(vzorec_navora, vsebina)
             slovar['navor'] = int(navor.group('navor'))
 
-        visina = re.search(vzorec_dimenzije, vsebina)
-        slovar['visina'] = float(visina.group('visina'))
+        if re.search(vzorec_dimenzije, vsebina):
+            visina = re.search(vzorec_dimenzije, vsebina)
+            slovar['visina'] = float(visina.group('visina'))
 
-        sirina = re.search(vzorec_dimenzije, vsebina)
-        slovar['sirina'] = float(sirina.group('sirina'))
+        if re.search(vzorec_dimenzije, vsebina):
+            sirina = re.search(vzorec_dimenzije, vsebina)
+            slovar['sirina'] = float(sirina.group('sirina'))
 
-        dolzina = re.search(vzorec_dimenzije, vsebina)
-        slovar['dolzina'] = float(dolzina.group('dolzina'))
+        if re.search(vzorec_dimenzije, vsebina):
+            dolzina = re.search(vzorec_dimenzije, vsebina)
+            slovar['dolzina'] = float(dolzina.group('dolzina'))
         
         if re.search(vzorec_teze, vsebina):
             teza = re.search(vzorec_teze, vsebina)
@@ -256,17 +259,16 @@ orodja.naredi_csv(
         csv_datoteka
         )
 
-#orodja.naredi_csv(
-#    ['verzija', 'visina', 'sirina', 'dolzina', 'teza'],
-#    ustvari_seznam_lastnosti(),
-#    mapa_obdelanih,
-#    csv_dimenzije
-#)
+orodja.naredi_csv(
+    ['verzija', 'visina', 'sirina', 'dolzina', 'teza'],
+    ustvari_seznam_lastnosti(),
+    mapa_obdelanih,
+    csv_dimenzije
+)
 
-#orodja.naredi_csv(
-#    ['verzija', 'leto'],
-#    leta_proizvodnje(),
-#    mapa_obdelanih, 
-#    csv_leta
-#)
-#
+orodja.naredi_csv(
+    ['verzija', 'leto'],
+    leta_proizvodnje(),
+    mapa_obdelanih, 
+    csv_leta
+)
