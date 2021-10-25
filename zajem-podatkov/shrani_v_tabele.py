@@ -47,9 +47,10 @@ vzorec_moci_motorja = (
 	r'"value": "(?P<moc_motorja>\d*?)"'
 )
 
-vzorec_prisilnega_polnjenja_zraka = (
-    r'<td class="tabletd" align="right">' 
-    r'Aspiration : </td> <td class="tabletd_right"> (?P<aspiracija>.*?) </td>'
+vzorec_prisilnega_polnjenja_motorja = (
+    r'<td class="tabletd" align="right">'
+    r' Aspiration : </td> <td class="tabletd_right">'
+    r' (?P<aspiracija>.*?) </td>'
 )
 
 vzorec_navora = (
@@ -63,13 +64,25 @@ vzorec_100_km_h = (
     r'"accelerationTime": \{\n\s*?'
 	r'"@type": "QuantitativeValue",\n\s*?'
 	r'"unitCode": "SEC",\n\s*?'
-	r'"value": "(?P<pospesevanje>\d*?)"'
+	r'"value": "(?P<pospesevanje>[\d\.]*?)"'
+)
+
+vzorec_100_km_h_2 = (
+    r'<td class="tabletd" align="right"> '
+    r'Acceleration 0 to 100 km/h (0 to 62 mph) : '
+    r'</td> <td class="tabletd_right"> (?P<pospesevanje>[\d\.]*?) s </td>'
 )
 
 vzorec_max_hitrost = (
     r'"speed": \{\n\s*?'
 	r'"@type": "QuantitativeValue",\n\s*?'
-	r'"unitCode": "KMH", "value": "(?P<max_hitrost>\d*?)"'
+	r'"unitCode": "KMH", "value": "(?P<max_hitrost>[\d\.]*?)"'
+)
+
+vzorec_max_hitrost_2 = (
+    r'<td class="tabletd" width="50%" align="right"> '
+    r'Top Speed : </td> <td class="tabletd_right" width="50%">'
+    r' (?P<max_hitrost>[\d\.]*?) km/h or .*? Mph </td>'
 )
 
 vzorec_dimenzije = (
@@ -147,17 +160,24 @@ def ustvari_seznam_lastnosti():
         moc_motorja =  re.search(vzorec_moci_motorja, vsebina)
         slovar['moč motorja'] = int(moc_motorja.group('moc_motorja'))
 
-        if re.search(vzorec_prisilnega_polnjenja_zraka, vsebina):
-            prisilno_polnenje = re.search(vzorec_prisilnega_polnjenja_zraka, vsebina)
-            slovar['prisilno polnenje motorja'] = prisilno_polnenje.group('aspiracija')
+        if re.search(vzorec_prisilnega_polnjenja_motorja, vsebina):
+            prisilno_polnenje = re.search(vzorec_prisilnega_polnjenja_motorja, vsebina)
+            slovar['prisilno polnenje motorja'] = prisilno_polnenje.group('aspiracija').split(' ')[0]
 
         if re.search(vzorec_100_km_h, vsebina):
             pospesevanje = re.search(vzorec_100_km_h, vsebina)
             slovar['pospesevanje'] = float(pospesevanje.group('pospesevanje'))
+        elif re.search(vzorec_100_km_h_2, vsebina):
+            pospesevanje_2 = re.search(vzorec_100_km_h, vsebina)
+            slovar['pospesevanje'] = float(pospesevanje_2.group('pospesevanje'))
 
         if re.search(vzorec_max_hitrost, vsebina):
             max_hitrost = re.search(vzorec_max_hitrost, vsebina)
-            slovar['max hitrost'] = int(max_hitrost.group('max_hitrost'))
+            slovar['max hitrost'] = float(max_hitrost.group('max_hitrost'))
+        elif re.search(vzorec_max_hitrost_2, vsebina):
+            max_hitrost_2 = re.search(vzorec_max_hitrost_2, vsebina)
+            slovar['max hitrost'] = float(max_hitrost_2.group('max_hitrost'))
+ 
 
         if re.search(vzorec_navora, vsebina):
             navor = re.search(vzorec_navora, vsebina)
@@ -207,27 +227,27 @@ def leta_proizvodnje():
     return leta
 
 
-#orodja.naredi_csv(
-#        ['znamka', 
-#        'model', 
-#        'generacija', 
-#        'verzija', 
-#        'prvo leto proizvodnje', 
-#        'gorivo',
-#        'poravnava motorja',
-#        'prostornina motorja',
-#        'moč motorja',
-#        'prisino polnenje motorja',
-#        'pospeseanje',
-#        'max hitrost',
-#        'navor',
-#        'emisije',
-#        'poraba'],    
-#        ustvari_seznam_lastnosti(),
-#        mapa_obdelanih, 
-#        csv_datoteka
-#        )
-#
+orodja.naredi_csv(
+        ['znamka', 
+        'model', 
+        'generacija', 
+        'verzija', 
+        'prvo leto proizvodnje', 
+        'gorivo',
+        'poravnava motorja',
+        'prostornina motorja',
+        'moč motorja',
+        'prisilno polnenje motorja',
+        'pospesevanje',
+        'max hitrost',
+        'navor',
+        'emisije',
+        'poraba'],    
+        ustvari_seznam_lastnosti(),
+        mapa_obdelanih, 
+        csv_datoteka
+        )
+
 #orodja.naredi_csv(
 #    ['verzija', 'visina', 'sirina', 'dolzina', 'teza'],
 #    ustvari_seznam_lastnosti(),
@@ -235,9 +255,10 @@ def leta_proizvodnje():
 #    csv_dimenzije
 #)
 
-orodja.naredi_csv(
-    ['verzija', 'leto'],
-    leta_proizvodnje(),
-    mapa_obdelanih, 
-    csv_leta
-)
+#orodja.naredi_csv(
+#    ['verzija', 'leto'],
+#    leta_proizvodnje(),
+#    mapa_obdelanih, 
+#    csv_leta
+#)
+#
