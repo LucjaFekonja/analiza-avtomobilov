@@ -38,13 +38,20 @@ vzorec_poravnave_motorja = (
     r'<td class="tabletd_right"> (?P<poravnava>.*?) </td>'
 )
 
-vzorec_prostornine_motorja = r'"unitCode": "CMQ",\n\s*?"value": "(?P<prostornina_motorja>\d*?)"'
+vzorec_prostornine_motorja = r'"unitCode": "CMQ",\n\s*?"value": "(?P<prostornina_motorja>.*?)"'
+
+vzorec_prostornine_motorja_2 = (
+    r'"engineDisplacement": \{\n\s*?'
+	r'"@type": "QuantitativeValue"\n\s*?,'
+	r'"unitCode": "CMQ",\n\s*?'
+	r'"value": "(?P<prostornina_motorja>[\d\.]*?)"'
+)
 
 vzorec_moci_motorja = (
     r'"enginePower": \{\n\s*?'
 	r'"@type": "QuantitativeValue",\n\s*?'
 	r'"unitCode": "N12",\n\s*?'
-	r'"value": "(?P<moc_motorja>\d*?)"'
+	r'"value": "(?P<moc_motorja>[\d\.]*?)"'
 )
 
 vzorec_prisilnega_polnjenja_motorja = (
@@ -86,8 +93,8 @@ vzorec_max_hitrost_2 = (
 )
 
 vzorec_dimenzije = (
-    r'Dimensions: Length:(?P<dolzina>[\d\.]+?) cm .*?; ?'
-    r'Width:(?P<sirina>[\d\.]+?) cm .*?; ?'
+    r'Dimensions: Length:(?P<dolzina>[\d\.]+?) cm .*?'
+    r'Width:(?P<sirina>[\d\.]+?) cm .*?'
     r'Height:(?P<visina>[\d\.]+?) cm'
 )
 
@@ -118,6 +125,17 @@ vzorec_porabe_2 = (
 
 ####################################################################################
 
+def dodaj_v_slovar(vzorec, ime_grupe, vsebina, slovar, ključ):
+    if re.search(vzorec, vsebina):
+        x = re.search(vzorec, vsebina)
+        slovar[str(ključ)] = x.group(str(ime_grupe))
+
+def dodaj_v_slovar_float(vzorec, ime_grupe, vsebina, slovar, ključ):
+    if re.search(vzorec, vsebina):
+        x = re.search(vzorec, vsebina)
+        slovar[str(ključ)] = float(x.group(str(ime_grupe)))
+
+
 # Ustvarimo slovar, ki ga bom pretvorila v csv
 # --------------------------------------------
 def ustvari_seznam_lastnosti():
@@ -139,87 +157,35 @@ def ustvari_seznam_lastnosti():
             slovar['verzija'] = genver.group('gen_ali_ver')
 
         # Dodamo znamko avtomobila
-        znamka = re.search(vzorec_znamke, vsebina)
-        slovar['znamka'] = znamka.group('znamka')
-
+        dodaj_v_slovar(vzorec_znamke, 'znamka', vsebina, slovar, 'znamka')
         # Dodamo model avtomobila
-        model = re.search(vzorec_modela, vsebina)
-        slovar['model'] = model.group('model')
+        dodaj_v_slovar(vzorec_modela, 'model', vsebina, slovar, 'model')
 
-        prvo_leto = re.search(vzorec_prvo_leto_proizvodnje, vsebina)
-        slovar['prvo leto proizvodnje'] = int(prvo_leto.group('prvo_leto_proizvodnje'))
+        dodaj_v_slovar_float(vzorec_prvo_leto_proizvodnje, 'prvo_leto_proizvodnje', vsebina, slovar, 'prvo leto proizvodnje')
+        dodaj_v_slovar(vzorec_leta_proizodnje, 'leta', vsebina, slovar, 'leta proizvodnje')
+        dodaj_v_slovar(vzorec_gorivo, 'gorivo', vsebina, slovar, 'gorivo')
+        dodaj_v_slovar(vzorec_poravnave_motorja, 'poravnava', vsebina, slovar, 'poravnava motorja')
+        dodaj_v_slovar_float(vzorec_prostornine_motorja, 'prostornina_motorja', vsebina, slovar, 'prostornina motorja')
+        dodaj_v_slovar_float(vzorec_moci_motorja, 'moc_motorja', vsebina, slovar, 'moč motorja')
+        dodaj_v_slovar(vzorec_prisilnega_polnjenja_motorja, 'aspiracija', vsebina, slovar, 'prisilno polnenje motorja')
+        dodaj_v_slovar_float(vzorec_100_km_h, 'pospesevanje', vsebina, slovar, 'pospesevanje')
+        dodaj_v_slovar_float(vzorec_100_km_h_2, 'pospesevanje', vsebina, slovar, 'pospesevanje')
+        dodaj_v_slovar_float(vzorec_max_hitrost, 'max_hitrost', vsebina, slovar, 'max hitrost')
+        dodaj_v_slovar_float(vzorec_max_hitrost_2, 'max_hitrost', vsebina, slovar, 'max hitrost')
+        dodaj_v_slovar_float(vzorec_navora, 'navor', vsebina, slovar, 'navor')
+        dodaj_v_slovar_float(vzorec_emisije, 'emisije', vsebina, slovar, 'emisije')
+        dodaj_v_slovar_float(vzorec_emisije_2, 'emisije', vsebina, slovar, 'emisije')
+        dodaj_v_slovar(vzorec_porabe, 'poraba', vsebina, slovar, 'poraba')
+        dodaj_v_slovar(vzorec_porabe_2, 'poraba', vsebina, slovar, 'poraba')
+        if slovar['poraba'] != '':
+            slovar['poraba'] = float(slovar['poraba'])
 
-        leta_proizvodnje = re.search(vzorec_leta_proizodnje, vsebina)
-        slovar['leta proizvodnje'] = leta_proizvodnje.group('leta').split(',')
-
-
-        gorivo = re.search(vzorec_gorivo, vsebina)
-        slovar['gorivo'] = gorivo.group('gorivo')
-
-        if re.search(vzorec_poravnave_motorja, vsebina):
-            poravnava_motorja = re.search(vzorec_poravnave_motorja, vsebina)
-            slovar['poravnava motorja'] = poravnava_motorja.group('poravnava')
-
-        prostornina_motorja = re.search(vzorec_prostornine_motorja, vsebina)
-        slovar['prostornina motorja'] = int(prostornina_motorja.group('prostornina_motorja'))
-
-        moc_motorja =  re.search(vzorec_moci_motorja, vsebina)
-        slovar['moč motorja'] = int(moc_motorja.group('moc_motorja'))
-
-        if re.search(vzorec_prisilnega_polnjenja_motorja, vsebina):
-            prisilno_polnenje = re.search(vzorec_prisilnega_polnjenja_motorja, vsebina)
-            slovar['prisilno polnenje motorja'] = prisilno_polnenje.group('aspiracija').split(' ')[0]
-
-        if re.search(vzorec_100_km_h, vsebina):
-            pospesevanje = re.search(vzorec_100_km_h, vsebina)
-            slovar['pospesevanje'] = float(pospesevanje.group('pospesevanje'))
-        elif re.search(vzorec_100_km_h_2, vsebina):
-            pospesevanje_2 = re.search(vzorec_100_km_h, vsebina)
-            slovar['pospesevanje'] = float(pospesevanje_2.group('pospesevanje'))
-
-        if re.search(vzorec_max_hitrost, vsebina):
-            max_hitrost = re.search(vzorec_max_hitrost, vsebina)
-            slovar['max hitrost'] = float(max_hitrost.group('max_hitrost'))
-        elif re.search(vzorec_max_hitrost_2, vsebina):
-            max_hitrost_2 = re.search(vzorec_max_hitrost_2, vsebina)
-            slovar['max hitrost'] = float(max_hitrost_2.group('max_hitrost'))
- 
-        if re.search(vzorec_navora, vsebina):
-            navor = re.search(vzorec_navora, vsebina)
-            slovar['navor'] = int(navor.group('navor'))
-
-        if re.search(vzorec_dimenzije, vsebina):
-            visina = re.search(vzorec_dimenzije, vsebina)
-            slovar['visina'] = float(visina.group('visina'))
-
-        if re.search(vzorec_dimenzije, vsebina):
-            sirina = re.search(vzorec_dimenzije, vsebina)
-            slovar['sirina'] = float(sirina.group('sirina'))
-
-        if re.search(vzorec_dimenzije, vsebina):
-            dolzina = re.search(vzorec_dimenzije, vsebina)
-            slovar['dolzina'] = float(dolzina.group('dolzina'))
+        dodaj_v_slovar(vzorec_dimenzije, 'visina', vsebina, slovar, 'višina')
+        dodaj_v_slovar(vzorec_dimenzije, 'sirina', vsebina, slovar, 'širina')
+        dodaj_v_slovar(vzorec_dimenzije, 'dolzina', vsebina, slovar, 'dolžina')
+        dodaj_v_slovar(vzorec_teze, 'teza', vsebina, slovar, 'teža')
         
-        if re.search(vzorec_teze, vsebina):
-            teza = re.search(vzorec_teze, vsebina)
-            slovar['teza'] = int(teza.group('teza'))
 
-        if re.search(vzorec_emisije, vsebina):
-            emisije = re.search(vzorec_emisije, vsebina)
-            slovar['emisije'] = float(emisije.group('emisije'))
-        elif re.search(vzorec_emisije_2, vsebina):
-            emisije = re.search(vzorec_emisije_2, vsebina)
-            slovar['emisije'] = float(emisije.group('emisije'))
-
-        poraba1 = re.search(vzorec_porabe, vsebina)
-        poraba2 = re.search(vzorec_porabe_2, vsebina)
-        if poraba1:
-            poraba = poraba1.group('poraba')
-        elif poraba2:
-            poraba = poraba2.group('poraba')
-        if not poraba == '':
-            slovar['poraba'] = float(poraba)
-        
         seznam_lastnosti.append(slovar)
     return seznam_lastnosti
 
@@ -227,7 +193,7 @@ def ustvari_seznam_lastnosti():
 def leta_proizvodnje():
     leta = []
     for slovar in ustvari_seznam_lastnosti():
-        leta_proizvodnje = slovar['leta proizvodnje']
+        leta_proizvodnje = slovar['leta proizvodnje'].split(',')
         verzija = slovar['verzija']
 
         for leto in leta_proizvodnje:
@@ -260,14 +226,14 @@ orodja.naredi_csv(
         )
 
 orodja.naredi_csv(
-    ['verzija', 'visina', 'sirina', 'dolzina', 'teza'],
+    ['verzija', 'višina', 'širina', 'dolžina', 'teža'],
     ustvari_seznam_lastnosti(),
     mapa_obdelanih,
     csv_dimenzije
 )
 
 orodja.naredi_csv(
-    ['verzija', 'leto'],
+   ['verzija', 'leto'],
     leta_proizvodnje(),
     mapa_obdelanih, 
     csv_leta
