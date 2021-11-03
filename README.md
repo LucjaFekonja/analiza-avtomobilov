@@ -34,5 +34,4 @@ V analizi bi rada odgovorila na naslednja vprašanja:
 6. Kako je skozi leta rastla moč motorja?
 7. Kaj je bila povprečna moč leta 1990 in leta 2019?
 8. Ali je največja hitrost vozila odvisna od njegove teže?
-9. Ali so modeli z manj verzijami boljši ali slabši od tistih z več?
-10. Ali je katera znamka prevladala v katerem časovnem obdobju tj. ali je v katerem časovnem obdobju ustvarila več verzij kot ostale?
+9. Ali je katera znamka prevladala v katerem časovnem obdobju tj. ali je v katerem časovnem obdobju ustvarila več verzij kot ostale?
