@@ -682,16 +682,33 @@ Ferrari,288,,GTO,1984.0,Petrol,Longitudinal,2855.0,400.0,Twin IHI Turbo + Interc
 Citroen,2CV,,6 Charleston,1980.0,Petrol,Longitudinal,602.0,29.0,N/A,35.0,115.0,38.0,,
 Citroen,2CV,,6 Club,1970.0,Petrol,Longitudinal,602.0,29.0,N/A,35.0,115.0,38.0,,
 Citroen,2CV,,6 Special,1980.0,Petrol,Longitudinal,602.0,29.0,N/A,33.5,115.0,,,5.4
+Mazda,3,3,1.4,2003.0,Petrol,Transverse,1349.0,84.0,N/A,14.5,169.0,122.0,160.0,6.7
+Mazda,3,3,1.6 CRTD,2003.0,Diesel,Transverse,1560.0,109.0,TGV + Intercooler,11.6,182.0,240.0,128.0,4.8
+Mazda,3,3,1.6,2003.0,Petrol,Transverse,1598.0,105.0,N/A,11.2,182.0,145.0,162.0,6.9
+Mazda,3,3,2.0 CRTD,2007.0,Diesel,Transverse,1998.0,143.0,Turbo + Intercooler,9.9,205.0,360.0,162.0,6.0
 Mazda,3,3 (BP),2.0 e-SkyActiv G 150 Auto,2021.0,Petrol,Transverse,1998.0,150.0,-,9.5,204.0,213.0,140.0,
 Mazda,3,3 (BP),2.0 e-SkyActiv G 150,2021.0,Petrol,Transverse,1998.0,150.0,-,9.1,206.0,213.0,128.0,
 Mazda,3,3 (BP),2.0 e-SkyActiv X 186 Auto,2021.0,Petrol,Transverse,1998.0,186.0,-,8.6,216.0,240.0,137.0,
 Mazda,3,3 (BP),2.0 e-SkyActiv X 186,2021.0,Petrol,Transverse,1998.0,186.0,-,8.2,216.0,240.0,120.0,
+Mazda,3,3,2.0,2003.0,Petrol,Transverse,1999.0,150.0,N/A,9.1,202.0,187.0,189.0,7.9
 Mazda,3,3 (BP),3 1.8 SkyActiv-D 116 Auto,2019.0,Diesel,Transverse,1759.0,116.0,Turbo Intercooler,12.1,192.0,270.0,121.0,4.7
 Mazda,3,3 (BP),3 1.8 SkyActiv-D 116,2019.0,Diesel,Transverse,1759.0,116.0,Turbo Intercooler,10.3,194.0,270.0,107.0,4.1
 Mazda,3,3 (BP),3 2.0 SkyActiv-G 122 Auto,2019.0,Petrol,Transverse,1998.0,122.0,-,10.8,197.0,213.0,140.0,5.5
 Mazda,3,3 (BP),3 2.0 SkyActiv-G 122,2019.0,Petrol,Transverse,1998.0,122.0,-,10.4,197.0,213.0,127.0,5.1
 Mazda,3,3 (BP),3 2.0 SkyActiv-X 180 Auto,2019.0,Petrol,Transverse,1998.0,180.0,-,,,224.0,140.0,5.3
 Mazda,3,3 (BP),3 2.0 SkyActiv-X 180,2019.0,Petrol,Transverse,1998.0,180.0,-,,,224.0,125.0,4.4
+Mazda,3,3 II,5p Active 1.6 105HP,2010.0,Petrol,Transverse,1598.0,105.0,N/A,12.2,184.0,145.0,149.0,6.3
+Mazda,3,3 II,5p Active 1.6 CRTD 109HP,2010.0,Diesel,Transverse,1560.0,109.0,Turbo (TGV) + Intercooler,11.0,185.0,240.0,119.0,4.5
+Mazda,3,3 II,5p Luxury 2.0 150HP Aut.,2010.0,Petrol,Transverse,1999.0,150.0,N/A,10.6,205.0,187.0,175.0,7.7
+Mazda,3,3 II,5p Luxury 2.0 DISI 151HP i-Stop,2010.0,Petrol,Transverse,1999.0,151.0,N/A,10.4,206.0,191.0,159.0,6.8
+Mazda,3,3 II,5p Luxury 2.2 CRTD 150HP,2010.0,Diesel,Transverse,2184.0,150.0,Turbo (TGV) + Intercooler,9.2,205.0,360.0,144.0,5.4
+Mazda,3,3 II,5p Sportive 2.0 DISI 151HP i-Stop,2010.0,Petrol,Transverse,1999.0,151.0,N/A,10.4,206.0,191.0,159.0,6.8
+Mazda,3,3 II,5p Sportive 2.2 CRTD 150HP,2010.0,Diesel,Transverse,2184.0,150.0,Turbo (TGV) + Intercooler,9.2,205.0,360.0,144.0,5.4
+Mazda,3,3 II,5p Sportive 2.2 CRTD 185HP,2010.0,Diesel,Transverse,2184.0,185.0,Turbo (TGV) + Intercooler,8.2,213.0,400.0,149.0,5.6
+Mazda,3,3 II,5p Style 1.6 105HP,2010.0,Petrol,Transverse,1598.0,105.0,N/A,12.2,184.0,145.0,149.0,6.3
+Mazda,3,3 II,5p Style 1.6 CRTD 109HP,2010.0,Diesel,Transverse,1560.0,109.0,Turbo (TGV) + Intercooler,11.0,185.0,240.0,119.0,4.5
+Mazda,3,3,MPS 2.3 MZR DISI Turbo,2006.0,Petrol,Transverse,2261.0,260.0,Turbo + Intercooler,6.1,250.0,380.0,231.0,9.7
+Mazda,3,3 II,MPS 5p 2.3 DISI Turbo,2010.0,Petrol,Transverse,2261.0,260.0,Turbo + Intercooler,6.1,250.0,380.0,224.0,9.6
 Mazda,3,3 2017,SKYACTIV-D 1.5 105HP Auto,2016.0,Diesel,Transverse,1499.0,105.0,Turbo (TGV) + Intercooler,11.6,181.0,270.0,114.0,4.4
 Mazda,3,3 2017,SKYACTIV-D 1.5 105HP,2016.0,Diesel,Transverse,1499.0,105.0,Turbo (TGV) + Intercooler,11.0,185.0,270.0,99.0,3.8
 Mazda,3,3 2017,SKYACTIV-D 2.2 150HP Auto,2016.0,Diesel,,2191.0,150.0,Turbo (TGV) + Intercooler,9.0,201.0,380.0,127.0,4.8
@@ -700,6 +717,333 @@ Mazda,3,3 2017,SKYACTIV-G 1.5 100HP,2017.0,Petrol,Transverse,1496.0,101.0,N/A,10
 Mazda,3,3 2017,SKYACTIV-G 2.0 120HP Auto,2016.0,Petrol,Transverse,1998.0,120.0,N/A,10.4,194.0,210.0,129.0,5.6
 Mazda,3,3 2017,SKYACTIV-G 2.0 120HP,2016.0,Petrol,Transverse,1998.0,120.0,N/A,8.9,195.0,210.0,119.0,5.1
 Mazda,3,3 2017,SKYACTIV-G 2.0 165HP i-ELOOP,2016.0,Petrol,,1998.0,165.0,N/A,8.2,210.0,210.0,135.0,5.8
+Renault,30,,30 TS Automatic,1975.0,Petrol,Longitudinal,2664.0,133.0,N/A,,180.0,,,
+Renault,30,,30 TX Automatic,1979.0,Petrol,Longitudinal,2664.0,142.0,N/A,,182.0,,,
+Renault,30,,TD,1982.0,Diesel,Longitudinal,2068.0,86.0,Turbo,15.4,160.0,181.0,195.0,7.4
+Renault,30,,TS,1980.0,Petrol,Longitudinal,2664.0,131.0,N/A,,,,,
+Renault,30,,Turbo Diesel,1982.0,Diesel,Transverse,2068.0,86.0,Turbo,15.0,160.0,,,
+Renault,30,,TX,1980.0,Petrol,Longitudinal,2664.0,142.0,N/A,,188.0,,,
+Nissan,Z series / Fairlady Z,300 ZX Z31,2+2,1987.0,Petrol,Longitudinal,2960.0,170.0,N/A,9.0,230.0,236.0,248.0,10.4
+Nissan,Z series / Fairlady Z,300 ZX Z31,Turbo 2+2,1987.0,Petrol,Longitudinal,2960.0,228.0,Turbo,7.1,250.0,326.0,241.0,10.1
+Nissan,Z series / Fairlady Z,300 ZX Z32,Twin Turbo,1990.0,Petrol,Longitudinal,2960.0,283.0,Turbo,5.9,250.0,375.0,265.0,11.1
+BMW,3000 GT Frua,,V8,1967.0,Petrol,Longitudinal,2982.0,159.0,N/A,10.0,195.0,,,
+Mitsubishi,3000GT,,3.0 V6,1995.0,Petrol,Longitudinal,2972.0,286.0,N/A,5.9,250.0,407.0,289.0,12.4
+Mitsubishi,3000GT,,VR-4,1994.0,Petrol,Transverse,2972.0,324.0,Turbo,,,427.0,,
+Peugeot,3008,3008 II,1.2 PureTech 130 Allure,2016.0,Petrol,Transverse,1199.0,131.0,Turbo + Intercooler,10.8,188.0,230.0,117.0,5.1
+Peugeot,3008,3008 2021,1.2 PureTech 130 Auto,2021.0,Petrol,Transverse,1199.0,130.0,Turbo Intercooler,9.5,188.0,230.0,146.0,
+Peugeot,3008,3008 II,1.2 PureTech 130 EAT6 Active,2016.0,Petrol,Transverse,1199.0,131.0,Turbo + Intercooler,10.5,188.0,230.0,120.0,5.3
+Peugeot,3008,3008 II,1.2 PureTech 130 EAT6 Allure,2016.0,Petrol,Transverse,1199.0,131.0,Turbo + Intercooler,10.5,188.0,230.0,120.0,5.3
+Peugeot,3008,3008 II,1.2 PureTech 130 GT Line,2016.0,Petrol,Transverse,1199.0,131.0,Turbo + Intercooler,10.8,188.0,230.0,117.0,5.1
+Peugeot,3008,3008,1.2 PureTech 130 S&S Access,2015.0,Petrol,Transverse,1199.0,131.0,Turbo + Intercooler,10.8,199.0,230.0,115.0,4.9
+Peugeot,3008,3008,1.2 PureTech 130 S&S Allure,2015.0,Petrol,Transverse,1199.0,131.0,Turbo + Intercooler,10.8,199.0,230.0,123.0,5.3
+Peugeot,3008,3008,1.2 PureTech 130 S&S Crossway,2015.0,Petrol,Transverse,1199.0,131.0,Turbo + Intercooler,10.8,199.0,230.0,123.0,5.3
+Peugeot,3008,3008 2021,1.2 PureTech 130,2021.0,Petrol,Transverse,1199.0,130.0,Turbo Intercooler,9.5,188.0,230.0,140.0,
+Peugeot,3008,3008 II,1.5 BlueHDI 130 Auto,2018.0,Diesel,Transverse,1499.0,130.0,Turbo Intercooler,11.5,192.0,300.0,105.0,4.0
+Peugeot,3008,3008 II,1.5 BlueHDI 130,2018.0,Diesel,Transverse,1499.0,130.0,Turbo Intercooler,10.3,192.0,300.0,106.0,4.0
+Peugeot,3008,3008 II,1.6 BlueHDi 100,2016.0,Diesel,Transverse,1560.0,99.0,Turbo + Intercooler,,,254.0,100.0,
+Peugeot,3008,3008,1.6 BlueHDi 120 Access,2014.0,Diesel,Transverse,1560.0,120.0,Turbo + Intercooler,13.3,185.0,300.0,108.0,4.1
+Peugeot,3008,3008,1.6 BlueHDi 120 Active,2014.0,Diesel,Transverse,1560.0,120.0,Turbo + Intercooler,13.3,185.0,300.0,108.0,4.1
+Peugeot,3008,3008,1.6 BlueHDi 120 Allure,2014.0,Diesel,Transverse,1560.0,120.0,Turbo + Intercooler,13.3,185.0,300.0,108.0,4.1
+Peugeot,3008,3008,1.6 BlueHDi 120 Crossway,2015.0,Diesel,Transverse,1560.0,120.0,Turbo + Intercooler,12.0,183.0,300.0,108.0,4.1
+Peugeot,3008,3008 II,1.6 BlueHDi 120 EAT6 Active,2016.0,Diesel,Transverse,1560.0,120.0,Turbo (TGV) + Intercooler,11.6,185.0,300.0,108.0,4.2
+Peugeot,3008,3008,1.6 BlueHDi 120 EAT6 Allure,2015.0,Diesel,Transverse,1560.0,120.0,Turbo + Intercooler,12.4,181.0,300.0,112.0,4.3
+Peugeot,3008,3008,1.6 BlueHDi 120 EAT6 Crossway,2015.0,Diesel,Transverse,1560.0,120.0,Turbo + Intercooler,12.4,181.0,300.0,112.0,4.3
+Peugeot,3008,3008 II,1.6 BlueHDi 120 EAT6 GT Line,2016.0,Diesel,Transverse,1560.0,120.0,Turbo (TGV) + Intercooler,11.6,185.0,300.0,108.0,4.2
+Peugeot,3008,3008 II,1.6 BlueHDi 120 GT Line,2016.0,Diesel,Transverse,1560.0,120.0,Turbo (TGV) + Intercooler,11.2,189.0,300.0,104.0,4.0
+Peugeot,3008,3008,1.6 BlueHDi 120 Style,2014.0,Diesel,,1560.0,120.0,,13.3,185.0,300.0,108.0,4.1
+Peugeot,3008,3008,1.6 e-HDi 112 FAP CMP Blue Lion Active,2012.0,Diesel,Transverse,1560.0,111.0,Turbo (TGV) + Intercooler,12.6,183.0,270.0,117.0,4.5
+Peugeot,3008,3008,1.6 e-HDi 115 CMP Blue Lion Active,2013.0,Diesel,,1560.0,115.0,Turbo (TGV) + Intercooler,12.6,183.0,270.0,117.0,4.5
+Peugeot,3008,3008,1.6 e-HDi 115 ETG6 Active,2013.0,Diesel,Transverse,1560.0,115.0,Turbo (TGV) + Intercooler,12.6,183.0,270.0,110.0,4.2
+Peugeot,3008,3008,1.6 HDI 110 FAP CMP Premium,2010.0,Diesel,Transverse,1560.0,109.0,Turbo (TGV) + Intercooler,12.2,180.0,240.0,130.0,4.9
+Peugeot,3008,3008,1.6 HDI 110 FAP CMP Sport Pack,2010.0,Diesel,Transverse,1560.0,109.0,Turbo (TGV) + Intercooler,12.2,180.0,240.0,135.0,5.1
+Peugeot,3008,3008,1.6 HDI 110 FAP Confort,2010.0,Diesel,Transverse,1560.0,109.0,Turbo (TGV) + Intercooler,12.2,180.0,240.0,137.0,5.1
+Peugeot,3008,3008,1.6 HDI 110 FAP Premium,2010.0,Diesel,Transverse,1560.0,109.0,Turbo (TGV) + Intercooler,12.2,180.0,240.0,137.0,5.1
+Peugeot,3008,3008,1.6 HDI 110 FAP Sport Pack,2010.0,Diesel,Transverse,1560.0,109.0,Turbo (TGV) + Intercooler,12.2,180.0,240.0,140.0,5.3
+Peugeot,3008,3008,1.6 HDI 112 FAP Business Line,2010.0,Diesel,Transverse,1560.0,112.0,Turbo (TGV) + Intercooler,12.2,181.0,270.0,135.0,5.2
+Peugeot,3008,3008,1.6 HDI 112 FAP CMP Premium,2010.0,Diesel,Transverse,1560.0,112.0,Turbo (TGV) + Intercooler,12.2,183.0,270.0,129.0,4.9
+Peugeot,3008,3008,1.6 HDI 112 FAP CMP Sport Pack,2010.0,Diesel,Transverse,1560.0,112.0,Turbo (TGV) + Intercooler,12.2,183.0,270.0,134.0,5.1
+Peugeot,3008,3008,1.6 HDI 112 FAP Confort,2010.0,Diesel,Transverse,1560.0,112.0,Turbo (TGV) + Intercooler,12.2,181.0,270.0,135.0,5.2
+Peugeot,3008,3008,1.6 HDI 112 FAP Premium,2010.0,Diesel,Transverse,1560.0,112.0,Turbo (TGV) + Intercooler,12.2,181.0,270.0,135.0,5.2
+Peugeot,3008,3008,1.6 HDI 112 FAP Sport Pack,2010.0,Diesel,Transverse,1560.0,112.0,Turbo (TGV) + Intercooler,12.2,181.0,270.0,138.0,5.3
+Peugeot,3008,3008,1.6 HDi 115 Access,2013.0,Diesel,Transverse,1560.0,115.0,Turbo (TGV) + Intercooler,12.2,181.0,270.0,125.0,4.8
+Peugeot,3008,3008,1.6 HDi 115 Active,2013.0,Diesel,Transverse,1560.0,115.0,Turbo (TGV) + Intercooler,12.2,181.0,270.0,125.0,4.8
+Peugeot,3008,3008,1.6 HDi 115 Napapijri,2013.0,Diesel,Transverse,1560.0,114.0,Turbo (TGV) + Intercooler,12.2,181.0,270.0,127.0,4.9
+Peugeot,3008,3008,1.6 HDi FAP Access,2009.0,Diesel,Transverse,1560.0,112.0,Turbo (TGV) + Intercooler,12.2,181.0,270.0,130.0,5.0
+Peugeot,3008,3008 II,1.6 PureTech 180,2018.0,Petrol,Transverse,1598.0,180.0,Turbo Intercooler,8.0,222.0,250.0,127.0,5.6
+Peugeot,3008,3008,1.6 THP 155 Napapijri,2013.0,Petrol,Transverse,1598.0,156.0,Turbo + Intercooler,8.9,202.0,240.0,159.0,6.9
+Peugeot,3008,3008,1.6 THP 156 Active,2009.0,Petrol,Transverse,1598.0,156.0,Turbo + Intercooler,8.9,202.0,240.0,167.0,7.1
+Peugeot,3008,3008,1.6 THP 156 Aut. Sport Pack,2010.0,Petrol,Transverse,1598.0,156.0,Turbo + Intercooler,,202.0,240.0,182.0,7.8
+Peugeot,3008,3008,1.6 THP 156 Premium,2010.0,Petrol,Transverse,1598.0,156.0,Turbo + Intercooler,8.9,202.0,240.0,167.0,7.1
+Peugeot,3008,3008,1.6 THP 156 Sport Pack,2010.0,Petrol,Transverse,1598.0,156.0,Turbo + Intercooler,8.9,202.0,240.0,169.0,7.3
+Peugeot,3008,3008 II,1.6 THP 165 Auto,2016.0,Petrol,Transverse,1598.0,165.0,Turbo + Intercooler,8.9,206.0,240.0,129.0,5.8
+Peugeot,3008,3008,1.6 THP 165 S&S EAT6 Allure,2015.0,Petrol,Transverse,1598.0,165.0,Turbo + Intercooler,9.6,202.0,240.0,138.0,6.0
+Peugeot,3008,3008,1.6 VTi 120 Access,2012.0,Petrol,Transverse,1598.0,120.0,N/A,11.8,185.0,160.0,155.0,6.7
+Peugeot,3008,3008,1.6 VTi 120 Active,2012.0,Petrol,Transverse,1598.0,120.0,N/A,11.8,185.0,160.0,155.0,6.7
+Peugeot,3008,3008,1.6 VTi 120 Confort,2010.0,Petrol,Transverse,1598.0,120.0,N/A,11.8,185.0,160.0,159.0,6.9
+Peugeot,3008,3008,1.6 VTi 120 Premium,2010.0,Petrol,Transverse,1598.0,120.0,N/A,11.8,185.0,160.0,159.0,6.9
+Peugeot,3008,3008,1.6 VTi 120 Sport Pack,2010.0,Petrol,Transverse,1598.0,120.0,N/A,11.8,185.0,160.0,162.0,7.0
+Peugeot,3008,3008 II,2.0 BlueHDi 150 Active,2016.0,Diesel,Transverse,1997.0,150.0,Turbo (TGV) + Intercooler,9.6,207.0,370.0,114.0,4.4
+Peugeot,3008,3008,2.0 BlueHDi 150 Allure,2015.0,Diesel,Transverse,1997.0,150.0,Turbo (TGV) + Intercooler,9.7,195.0,330.0,114.0,4.4
+Peugeot,3008,3008,2.0 BlueHDi 150 Crossway,2015.0,Diesel,Transverse,1997.0,150.0,Turbo (TGV) + Intercooler,9.7,195.0,370.0,109.0,4.2
+Peugeot,3008,3008 II,2.0 BlueHDi 150 GT Line,2016.0,Diesel,Transverse,1997.0,150.0,Turbo (TGV) + Intercooler,9.6,207.0,370.0,114.0,4.4
+Peugeot,3008,3008,2.0 BlueHDi 150 Style,2015.0,Diesel,Transverse,1997.0,150.0,Turbo (TGV) + Intercooler,9.7,195.0,330.0,114.0,4.4
+Peugeot,3008,3008,2.0 BlueHDi 150,2016.0,Diesel,Transverse,1997.0,150.0,Turbo (TGV) + Intercooler,9.7,195.0,370.0,114.0,4.4
+Peugeot,3008,3008 II,2.0 BlueHDi 180 EAT6 GT,2016.0,Diesel,Transverse,1997.0,181.0,Turbo (TGV) + Intercooler,8.9,207.0,400.0,124.0,4.8
+Peugeot,3008,3008 II,2.0 BlueHDI 180,2018.0,Diesel,Transverse,1997.0,180.0,Turbo Intercooler,9.0,208.0,400.0,124.0,4.8
+Peugeot,3008,3008,2.0 HDi 150 FAP Active,2012.0,Diesel,Transverse,1997.0,150.0,Turbo (TGV) + Intercooler,9.7,195.0,340.0,140.0,5.4
+Peugeot,3008,3008,2.0 HDi 150 FAP Allure,2012.0,Diesel,Transverse,1997.0,150.0,Turbo (TGV) + Intercooler,9.7,195.0,340.0,142.0,5.4
+Peugeot,3008,3008,2.0 HDI 150 FAP Business Line,2010.0,Diesel,Transverse,1997.0,150.0,Turbo (TGV) + Intercooler,9.7,195.0,340.0,146.0,5.6
+Peugeot,3008,3008,2.0 HDI 150 FAP Premium,2010.0,Diesel,Transverse,1997.0,150.0,Turbo (TGV) + Intercooler,9.7,195.0,340.0,146.0,5.6
+Peugeot,3008,3008,2.0 HDI 150 FAP Sport Pack,2010.0,Diesel,Transverse,1997.0,150.0,Turbo (TGV) + Intercooler,9.7,195.0,340.0,149.0,5.7
+Peugeot,3008,3008,2.0 HDi 150 Napapijri,2013.0,Diesel,Transverse,1997.0,150.0,Turbo (TGV) + Intercooler,9.7,195.0,340.0,139.0,5.3
+Peugeot,3008,3008,2.0 HDi 163 FAP Aut. Premium,2009.0,Diesel,Transverse,1997.0,163.0,Turbo (TGV) + Intercooler,10.2,190.0,340.0,169.0,6.5
+Peugeot,3008,3008,2.0 HDi 163 FAP Aut. Sport Pack,2009.0,Diesel,Transverse,1997.0,163.0,Turbo (TGV) + Intercooler,10.2,190.0,340.0,172.0,6.6
+Peugeot,3008,3008 II,Blue Lease Premium 1.2 PureTech 130 EAT8,2019.0,Petrol,Transverse,1199.0,130.0,Turbo Intercooler,9.7,197.0,230.0,117.0,5.2
+Peugeot,3008,3008 II,Crossway 1.2 PureTech 130 EAT8,2019.0,Petrol,Transverse,1199.0,130.0,Turbo Intercooler,9.7,197.0,230.0,117.0,5.2
+Peugeot,3008,3008 II,Crossway 1.2 PureTech 130,2019.0,Petrol,Transverse,1199.0,130.0,Turbo Intercooler,10.6,188.0,230.0,115.0,5.2
+Peugeot,3008,3008 II,GT-line 1.2 PureTech 130 EAT8,2019.0,Petrol,Transverse,1199.0,130.0,Turbo Intercooler,9.7,197.0,230.0,117.0,5.2
+Peugeot,3008,3008 II,HYbrid 225,2019.0,hybrid_petrol,Transverse,1598.0,225.0,Turbo Intercooler,,,360.0,34.0,1.5
+Peugeot,3008,3008,Hybrid4 2.0 HDi,2013.0,hybrid_diesel,Transverse,1997.0,200.0,Turbo (TGV) + Intercooler,9.2,191.0,500.0,91.0,3.5
+Peugeot,3008,3008 II,HYbrid4 300 3.7kW Charger,2019.0,hybrid_petrol,Transverse,1598.0,300.0,Turbo Intercooler,5.9,235.0,520.0,30.0,1.5
+Peugeot,3008,3008 II,HYbrid4 300 7.4kW Charger,2019.0,hybrid_petrol,,1598.0,300.0,Turbo Intercooler,5.9,235.0,520.0,30.0,1.5
+Peugeot,3008,3008 2021,HYbrid4 300,2021.0,hybrid_petrol,Transverse,1598.0,300.0,Turbo Intercooler,5.9,235.0,520.0,29.0,
+Chrysler,300,300C,2.7 V6,2004.0,Petrol,Longitudinal,2736.0,193.0,N/A,11.1,209.0,257.0,250.0,10.5
+Chrysler,300,300C,3.0 V6 CRD Executive,2008.0,Diesel,Longitudinal,2987.0,218.0,Turbo (TGV) + Intercooler,7.6,230.0,510.0,215.0,8.1
+Chrysler,300,300C,3.0 V6 CRD SRT,2008.0,Diesel,Longitudinal,2987.0,218.0,Turbo (TGV) + Intercooler,7.6,230.0,510.0,215.0,8.1
+Chrysler,300,300C,3.0 V6 CRD,2008.0,Diesel,Longitudinal,2987.0,218.0,Turbo (TGV) + Intercooler,7.6,230.0,510.0,215.0,8.1
+Chrysler,300,300C,3.5 V6,2004.0,Petrol,Longitudinal,3518.0,249.0,N/A,9.2,219.0,340.0,264.0,11.1
+Chrysler,300,300C,5.7 Hemi V8,2004.0,Petrol,Longitudinal,5654.0,340.0,N/A,6.4,250.0,525.0,287.0,12.1
+Chrysler,300,300C,6.1 SRT8,2006.0,Petrol,Longitudinal,6059.0,431.0,N/A,5.0,270.0,569.0,330.0,14.0
+Chrysler,300M,,2.7,1998.0,Petrol,Longitudinal,2736.0,204.0,N/A,10.5,210.0,257.0,275.0,11.5
+Chrysler,300M,,3.5,1998.0,Petrol,Longitudinal,3518.0,252.0,N/A,8.8,230.0,340.0,275.0,11.5
+BMW,303 Platform,303,Saloon,1933.0,Petrol,Longitudinal,1182.0,30.0,N/A,,90.0,,,
+Peugeot,304,,1.3 S Coupe,1972.0,Petrol,Transverse,1288.0,75.0,N/A,,160.0,101.0,243.0,10.2
+Peugeot,304,,1.3 S,1972.0,Petrol,Transverse,1288.0,75.0,N/A,13.9,160.0,101.0,203.0,8.5
+Peugeot,304,,1.3,1969.0,Petrol,Transverse,1288.0,65.0,N/A,,150.0,94.0,234.0,9.8
+Peugeot,304,,GLD,1977.0,Diesel,Transverse,1357.0,45.0,N/A,26.8,131.0,,150.0,5.7
+Peugeot,305,305,1.3 GL - GR,1982.0,Petrol,Transverse,1290.0,65.0,N/A,17.0,152.0,,,6.0
+Peugeot,305,305,1.5 GL - GR - SR,1983.0,Petrol,Transverse,1472.0,74.0,N/A,13.2,158.0,,,5.5
+Peugeot,305,305,1.5 GR - SR,1978.0,Petrol,Transverse,1472.0,74.0,N/A,13.2,152.0,114.0,186.0,7.8
+Peugeot,305,305,1.5 S,1978.0,Petrol,Transverse,1472.0,89.0,N/A,12.1,162.0,122.0,196.0,8.2
+Peugeot,305,305,1.6 Auto,1984.0,Petrol,Transverse,1580.0,94.0,N/A,15.2,165.0,135.0,181.0,7.6
+Peugeot,305,305,1.6 GR - SR,1987.0,Petrol,Transverse,1580.0,80.0,N/A,14.0,164.0,130.0,174.0,7.3
+Peugeot,305,305 Break,1.3,1979.0,Petrol,Transverse,1290.0,65.0,N/A,17.3,147.0,92.0,200.0,8.4
+Peugeot,305,305 Break,1.5 GR - SR,1979.0,Petrol,Transverse,1472.0,74.0,N/A ,14.0,153.0,114.0,188.0,7.9
+Peugeot,305,305 Break,1.5,1982.0,Petrol,Transverse,1472.0,73.0,N/A,14.0,156.0,114.0,174.0,7.3
+Peugeot,305,305 Break,1.6,1987.0,Petrol,Transverse,1580.0,80.0,N/A,14.5,164.0,130.0,174.0,7.3
+Peugeot,305,305 Break,D,1982.0,Diesel,Transverse,1905.0,65.0,N/A,17.4,152.0,118.0,,6.1
+Peugeot,305,305 Break,GT,1984.0,Petrol,Transverse,1580.0,94.0,N/A,,,135.0,,
+Peugeot,305,305,GLD - GRD - SRD,1982.0,Diesel,Transverse,1905.0,65.0,N/A,16.5,152.0,120.0,155.0,5.9
+Peugeot,305,305,GT,1983.0,Petrol,Transverse,1580.0,94.0,N/A,11.7,170.0,,,5.3
+Peugeot,305,305,GTX 1.9,1984.0,Petrol,Transverse,1905.0,105.0,N/A,10.8,182.0,159.0,179.0,7.5
+Peugeot,306,306,1.1i,1994.0,Petrol,Transverse,1124.0,60.0,N/A,18.4,155.0,88.0,160.0,6.7
+Peugeot,306,306,1.4,1997.0,Petrol,Transverse,1360.0,75.0,N/A,14.7,165.0,111.0,172.0,7.2
+Peugeot,306,306,1.4i,1994.0,Petrol,Transverse,1360.0,75.0,N/A,14.9,165.0,111.0,160.0,6.7
+Peugeot,306,306,1.6,1997.0,Petrol,Transverse,1587.0,90.0,N/A,13.5,178.0,135.0,184.0,7.7
+Peugeot,306,306,1.6i,1994.0,Petrol,Transverse,1587.0,90.0,N/A,12.9,180.0,135.0,172.0,7.2
+Peugeot,306,306,1.8 16v,1997.0,Petrol,Transverse,1761.0,112.0,N/A,11.2,192.0,155.0,198.0,8.3
+Peugeot,306,306,1.8i,1994.0,Petrol,Transverse,1761.0,103.0,N/A,12.2,185.0,153.0,191.0,8.0
+Peugeot,306,306,1.9 dt,1997.0,Diesel,Transverse,1905.0,90.0,Turbo,13.5,175.0,196.0,174.0,6.6
+Peugeot,306,306,1.9d,1997.0,Diesel,,1905.0,69.0,N/A,18.0,160.0,120.0,168.0,6.4
+Peugeot,306,306 Break,1.8 16v,1997.0,Petrol,Transverse,1761.0,112.0,N/A,12.0,190.0,155.0,200.0,8.4
+Peugeot,306,306 Break,1.8,1997.0,Petrol,Transverse,1761.0,101.0,N/A,15.7,172.0,153.0,220.0,9.2
+Peugeot,306,306 Break,1.8i 16v,1999.0,Petrol,,1761.0,112.0,N/A,12.0,190.0,155.0,201.0,8.4
+Peugeot,306,306 Break,1.9 d,1999.0,Diesel,Transverse,1868.0,70.0,N/A,17.9,162.0,125.0,164.0,6.2
+Peugeot,306,306 Break,1.9 dt,1997.0,Diesel,Transverse,1905.0,90.0,Turbo,14.1,175.0,196.0,174.0,6.6
+Peugeot,306,306 Break,2.0 16v,1997.0,Petrol,Transverse,1998.0,135.0,N/A,10.9,201.0,180.0,217.0,9.1
+Peugeot,306,306 Break,2.0 HDI,1999.0,Diesel,Transverse,1997.0,90.0,Turbo,13.0,182.0,205.0,141.0,5.2
+Peugeot,306,306 Cabriolet,1.8i,1994.0,Petrol,Transverse,1761.0,103.0,N/A,12.6,182.0,153.0,196.0,8.2
+Peugeot,306,306 Cabriolet,2.0 16v,1999.0,Petrol,Transverse,1998.0,135.0,N/A,11.1,199.0,180.0,221.0,9.2
+Peugeot,306,306 Cabriolet,2.0i,1994.0,Petrol,Transverse,1998.0,124.0,N/A,10.8,194.0,176.0,200.0,8.4
+Peugeot,306,306,GTI,1997.0,Petrol,Transverse,1998.0,167.0,N/A,8.8,218.0,193.0,172.0,7.2
+Peugeot,306,306,S16,1994.0,Petrol,,1998.0,155.0,N/A,9.2,215.0,183.0,205.0,8.6
+Peugeot,306,306 Sedan,1.6 Aut.,2000.0,Petrol,Transverse,1587.0,99.0,N/A,14.0,182.0,138.0,186.0,7.8
+Peugeot,306,306 Sedan,1.6,2000.0,Petrol,Transverse,1587.0,99.0,,11.8,188.0,138.0,165.0,6.9
+Peugeot,306,306 Sedan,1.8 16v,1997.0,Petrol,Transverse,1762.0,110.0,N/A,11.4,195.0,155.0,198.0,8.3
+Peugeot,306,306 Sedan,1.9 D,1999.0,Diesel,Transverse,1868.0,69.0,N/A,17.3,163.0,125.0,166.0,6.3
+Peugeot,306,306 Sedan,2.0 HDI,1999.0,Diesel,Transverse,1997.0,90.0,Turbo,13.2,182.0,205.0,139.0,5.3
+Peugeot,306,306,XSi 2.0 16v,1997.0,Petrol,Transverse,1998.0,135.0,N/A,10.4,202.0,180.0,217.0,9.1
+Peugeot,306,306,XSi,1994.0,Petrol,Transverse,1998.0,122.0,N/A,10.4,197.0,176.0,196.0,8.2
+Peugeot,307,307,1.4 HDi 70,2001.0,Diesel,Transverse,1399.0,68.0,Turbo,17.1,160.0,160.0,118.0,4.5
+Peugeot,307,307,1.4i 16v,2004.0,Petrol,Transverse,1361.0,88.0,N/A,12.8,172.0,133.0,155.0,6.5
+Peugeot,307,307,1.6 HDi 110,2004.0,Diesel,Transverse,1560.0,109.0,TGV + Intercooler,11.2,188.0,240.0,129.0,4.9
+Peugeot,307,307,1.6 HDi 90,2005.0,Diesel,Transverse,1560.0,90.0,Turbo + Intercooler,12.5,179.0,215.0,129.0,4.9
+Peugeot,307,307,1.6i 16v,2001.0,Petrol,Transverse,1587.0,109.0,N/A,10.7,190.0,147.0,174.0,7.4
+Peugeot,307,307,2.0 16v GT 180,2004.0,Petrol,Transverse,1997.0,177.0,N/A,8.2,220.0,202.0,200.0,8.4
+Peugeot,307,307,2.0 HDi 136,2004.0,Diesel,Transverse,1997.0,136.0,TGV + Intercooler,9.8,202.0,320.0,142.0,5.4
+Peugeot,307,307,2.0i,2001.0,Petrol,Transverse,1997.0,140.0,N/A,8.9,205.0,200.0,184.0,7.7
+Peugeot,307,307 CC,1.6i,2003.0,Petrol,Transverse,1587.0,109.0,N/A,13.5,191.0,147.0,178.0,7.6
+Peugeot,307,307 CC,2.0 HDi 136,2005.0,Diesel,Transverse,1997.0,136.0,TGV + Intercooler,11.1,208.0,320.0,159.0,6.0
+Peugeot,307,307 CC,2.0i 16v 180,2003.0,Petrol,Transverse,1997.0,177.0,N/A,10.0,225.0,202.0,210.0,8.8
+Peugeot,307,307 CC,2.0i 16v,2003.0,Petrol,Transverse,1997.0,140.0,N/A,10.7,207.0,200.0,192.0,8.1
+Peugeot,307,307 SW,1.6 16V Auto,2002.0,Petrol,Transverse,1587.0,109.0,N/A,15.2,180.0,147.0,198.0,8.3
+Peugeot,307,307 SW,1.6 16V Clim Plus,2002.0,Petrol,Transverse,1587.0,109.0,N/A,12.4,182.0,147.0,184.0,7.7
+Peugeot,307,307 SW,1.6 16V D-SIGN,2005.0,Petrol,Transverse,1587.0,109.0,N/A,12.8,182.0,147.0,178.0,7.7
+Peugeot,307,307 SW,1.6 16V Port Aventura,2002.0,Petrol,Transverse,1587.0,109.0,N/A,11.9,182.0,147.0,184.0,7.7
+Peugeot,307,307 SW,1.6 16V,2002.0,Petrol,,1587.0,109.0,,12.4,182.0,147.0,,7.7
+Peugeot,307,307 SW,1.6 HDi 110 Clim Plus,2004.0,Diesel,Transverse,1560.0,109.0,Turbo (TGV) + Intercooler,12.0,183.0,260.0,132.0,5.0
+Peugeot,307,307 SW,1.6 HDI 110 FAP D-SIGN,2005.0,Diesel,Transverse,1560.0,109.0,Turbo (TGV) + Intercooler,13.5,183.0,240.0,131.0,5.0
+Peugeot,307,307 SW,1.6 HDI 110 FAP Pack+,2005.0,Diesel,Transverse,1560.0,109.0,Turbo (TGV) + Intercooler,13.5,183.0,240.0,131.0,5.0
+Peugeot,307,307 SW,1.6 HDI 110 FAP Pack,2005.0,Diesel,Transverse,1560.0,109.0,Turbo (TGV) + Intercooler,13.5,183.0,240.0,131.0,5.0
+Peugeot,307,307 SW,1.6 HDI 110 FAP XSI,2005.0,Diesel,Transverse,1560.0,109.0,Turbo (TGV) + Intercooler,13.5,183.0,240.0,131.0,5.0
+Peugeot,307,307 SW,1.6 HDi 110 Pack,2002.0,Diesel,Transverse,1560.0,109.0,Turbo (TGV) + Intercooler,12.0,183.0,260.0,134.0,5.1
+Peugeot,307,307 SW,1.6 HDi 110 Port Aventura,2002.0,Diesel,Transverse,1560.0,109.0,Turbo (TGV) + Intercooler,12.0,183.0,260.0,134.0,5.1
+Peugeot,307,307 SW,1.6 HDI 90 D-SIGN,2005.0,Diesel,Transverse,1560.0,90.0,Turbo + Intercooler,15.1,174.0,215.0,134.0,5.1
+Peugeot,307,307 SW,1.6 HDI 90 Pack+,2005.0,Diesel,Transverse,1560.0,90.0,Turbo + Intercooler,15.1,174.0,215.0,134.0,5.1
+Peugeot,307,307 SW,1.6 HDI 90 Pack,2005.0,Diesel,Transverse,1560.0,90.0,Turbo + Intercooler,15.1,174.0,215.0,134.0,5.1
+Peugeot,307,307 SW,1.6 HDi 90 Port Aventura,2004.0,Diesel,Transverse,1560.0,90.0,Turbo + Intercooler,13.3,174.0,215.0,134.0,5.1
+Peugeot,307,307 SW,2.0 16V Auto Pack+,2005.0,Petrol,Transverse,1997.0,140.0,N/A,12.1,197.0,200.0,199.0,8.4
+Peugeot,307,307 SW,2.0 16V Auto Pack,2005.0,Petrol,Transverse,1997.0,140.0,N/A,12.1,197.0,200.0,199.0,8.4
+Peugeot,307,307 SW,2.0 16V Auto,2002.0,Petrol,Transverse,1997.0,136.0,N/A,12.0,196.0,190.0,210.0,8.8
+Peugeot,307,307 SW,2.0 16V Pack+,2005.0,Petrol,Transverse,1997.0,140.0,N/A,10.7,200.0,200.0,188.0,7.9
+Peugeot,307,307 SW,2.0 16V Pack,2005.0,Petrol,Transverse,1997.0,140.0,N/A,10.7,200.0,200.0,188.0,7.9
+Peugeot,307,307 SW,2.0 16V XSI,2005.0,Petrol,Transverse,1997.0,140.0,N/A,10.7,200.0,200.0,188.0,7.9
+Peugeot,307,307 SW,2.0 16V,2002.0,Petrol,Transverse,1997.0,136.0,N/A,9.8,200.0,190.0,188.0,7.9
+Peugeot,307,307 SW,2.0 HDi 110 FAP+ESP Clim,2002.0,Diesel,Transverse,1997.0,107.0,Turbo + Intercooler,13.4,183.0,250.0,142.0,5.4
+Peugeot,307,307 SW,2.0 HDi 110 FAP+ESP Pack,2002.0,Diesel,Transverse,1997.0,107.0,Turbo + Intercooler,13.4,183.0,250.0,142.0,5.4
+Peugeot,307,307 SW,2.0 HDi 110 FAP+ESP,2002.0,Diesel,Transverse,1997.0,107.0,Turbo + Intercooler,13.4,183.0,250.0,142.0,5.4
+Peugeot,307,307 SW,2.0 HDi 136 FAP+ESP,2003.0,Diesel,Transverse,1997.0,136.0,Turbo (TGV) + Intercooler,12.0,197.0,320.0,147.0,5.6
+Peugeot,307,307 SW,2.0 HDI 136 FAP Auto Pack+,2005.0,Diesel,Transverse,1997.0,136.0,Turbo (TGV) + Intercooler,10.7,199.0,320.0,183.0,6.9
+Peugeot,307,307 SW,2.0 HDI 136 FAP Pack+,2005.0,Diesel,Transverse,1997.0,136.0,Turbo (TGV) + Intercooler,12.0,197.0,320.0,148.0,5.6
+Peugeot,307,307 SW,2.0 HDI 136 FAP Pack,2005.0,Diesel,Transverse,1997.0,136.0,Turbo (TGV) + Intercooler,12.0,197.0,320.0,148.0,5.6
+Peugeot,307,307 SW,2.0 HDI 136 FAP XSI,2005.0,Diesel,Transverse,1997.0,136.0,Turbo (TGV) + Intercooler,12.0,197.0,320.0,148.0,5.6
+Peugeot,307,307 SW,2.0 HDi 136 Pack,2003.0,Diesel,Transverse,1997.0,136.0,Turbo (TGV) + Intercooler,10.8,196.0,320.0,147.0,5.6
+Peugeot,307,307 SW,2.0 HDi 90 Clim Plus,2002.0,Diesel,Transverse,1997.0,90.0,Turbo,14.4,174.0,205.0,142.0,5.4
+Peugeot,307,307 SW,2.0 HDi 90 Pack,2002.0,Diesel,Transverse,1997.0,90.0,Turbo,14.4,174.0,205.0,142.0,5.4
+Peugeot,307,307 SW,2.0 HDi 90 Port Aventura,2002.0,Diesel,Transverse,1997.0,90.0,Turbo,14.4,174.0,205.0,142.0,5.4
+Peugeot,307,307 SW,2.0 HDi 90,2002.0,Diesel,Transverse,1997.0,90.0,Turbo,14.4,174.0,205.0,142.0,5.4
+Peugeot,308,308 II,1.2 e-THP 130HP PureTech Access,2014.0,Petrol,Transverse,1199.0,131.0,Turbo,9.6,207.0,230.0,109.0,4.7
+Peugeot,308,308 II,1.2 e-THP 130HP PureTech Active,2014.0,Petrol,Transverse,1199.0,131.0,Turbo,9.6,207.0,230.0,109.0,4.7
+Peugeot,308,308 II,1.2 e-THP 130HP PureTech Allure,2014.0,Petrol,Transverse,1199.0,131.0,Turbo,10.3,201.0,230.0,110.0,4.8
+Peugeot,308,308 II,1.2 PureTech 110 S&S Access,2014.0,Petrol,Transverse,1199.0,110.0,Turbo + Intercooler,11.1,188.0,205.0,105.0,4.6
+Peugeot,308,308 II,1.2 PureTech 110 S&S Active,2014.0,Petrol,Transverse,1199.0,110.0,Turbo + Intercooler,11.1,188.0,205.0,105.0,4.6
+Peugeot,308,308 II,1.2 PureTech 110 S&S Allure,2014.0,Petrol,Transverse,1199.0,110.0,Turbo + Intercooler,11.8,188.0,205.0,107.0,4.6
+Peugeot,308,308 II,1.2 PureTech 110 S&S Style,2015.0,Petrol,Transverse,1199.0,110.0,Turbo + Intercooler,11.1,188.0,205.0,105.0,4.6
+Peugeot,308,308 2022,1.2 PureTech 110,2021.0,Petrol,Transverse,1199.0,110.0,Turbo Intercooler,10.5,198.0,205.0,124.0,
+Peugeot,308,308 2022,1.2 PureTech 130 Auto,2021.0,Petrol,Transverse,1199.0,130.0,Turbo Intercooler,9.7,210.0,230.0,127.0,
+Peugeot,308,308 2018,1.2 PureTech 130 EAT6,2017.0,Petrol,Transverse,1199.0,131.0,Turbo + Intercooler,9.1,200.0,230.0,106.0,4.0
+Peugeot,308,308 II,1.2 PureTech 130 S&S Allure,2016.0,Petrol,Transverse,1199.0,131.0,Turbo + Intercooler,9.6,207.0,230.0,107.0,4.6
+Peugeot,308,308 II,1.2 PureTech 130 S&S Auto Allure,2014.0,Petrol,,1199.0,131.0,Turbo + Intercooler,9.8,200.0,230.0,119.0,5.1
+Peugeot,308,308 II,1.2 PureTech 130 S&S Auto GT Line,2015.0,Petrol,Transverse,1199.0,131.0,Turbo + Intercooler,9.1,206.0,230.0,117.0,5.1
+Peugeot,308,308 II,1.2 PureTech 130 S&S Auto Style,2015.0,Petrol,Transverse,1199.0,131.0,Turbo + Intercooler,9.1,206.0,230.0,114.0,4.9
+Peugeot,308,308 II,1.2 PureTech 130 S&S EAT6 Allure,2016.0,Petrol,Transverse,1199.0,131.0,Turbo + Intercooler,9.1,206.0,230.0,112.0,4.9
+Peugeot,308,308 II,1.2 PureTech 130 S&S EAT6 GT Line,2016.0,Petrol,Transverse,1199.0,131.0,Turbo + Intercooler,9.1,206.0,230.0,112.0,4.9
+Peugeot,308,308 II,1.2 PureTech 130 S&S EAT6 Style,2016.0,Petrol,Transverse,1199.0,131.0,Turbo + Intercooler,9.1,206.0,230.0,109.0,4.7
+Peugeot,308,308 II,1.2 PureTech 130 S&S GT Line,2016.0,Petrol,Transverse,1199.0,131.0,Turbo + Intercooler,9.6,207.0,230.0,107.0,4.6
+Peugeot,308,308 II,1.2 PureTech 130 S&S Style,2016.0,Petrol,Transverse,1199.0,131.0,Turbo + Intercooler,9.6,207.0,230.0,104.0,4.5
+Peugeot,308,308 2022,1.2 PureTech 130,2021.0,Petrol,Transverse,1199.0,130.0,Turbo Intercooler,9.6,210.0,230.0,125.0,
+Peugeot,308,308 II,1.2 VTi 82HP Access,2013.0,Petrol,Transverse,1199.0,82.0,N/A,13.3,172.0,118.0,114.0,5.0
+Peugeot,308,308 II,1.2 VTi 82HP Active,2013.0,Petrol,Transverse,1199.0,82.0,N/A,13.3,172.0,118.0,114.0,5.0
+Peugeot,308,308 2022,1.5 BlueHDi 130 Auto,2021.0,Diesel,Transverse,1499.0,130.0,Turbo Intercooler,10.6,207.0,300.0,120.0,
+Peugeot,308,308 2022,1.5 BlueHDi 130,2021.0,Diesel,Transverse,1499.0,130.0,Turbo Intercooler,10.6,207.0,300.0,116.0,
+Peugeot,308,308 II,1.6 BlueHDi 100 Access,2015.0,Diesel,Transverse,1560.0,99.0,Turbo + Intercooler,11.3,186.0,254.0,94.0,3.6
+Peugeot,308,308 II,1.6 BlueHDi 100 Active,2015.0,Diesel,Transverse,1560.0,99.0,Turbo + Intercooler,11.3,186.0,254.0,94.0,3.6
+Peugeot,308,308 II,1.6 BlueHDi 100 Style,2015.0,Diesel,Transverse,1560.0,99.0,Turbo + Intercooler,11.3,186.0,254.0,94.0,3.6
+Peugeot,308,308 2018,1.6 BlueHDi 100,2017.0,Diesel,Transverse,1560.0,99.0,Turbo + Intercooler,11.3,181.0,254.0,95.0,3.6
+Peugeot,308,308 II,1.6 BlueHDi 120 Allure,2015.0,Diesel,Transverse,1560.0,120.0,Turbo + Intercooler,9.6,196.0,300.0,98.0,3.8
+Peugeot,308,308 II,1.6 BlueHDi 120 EAT6 Style,2015.0,Diesel,Transverse,1560.0,120.0,Turbo + Intercooler,9.6,196.0,300.0,92.0,3.5
+Peugeot,308,308 2018,1.6 BlueHDi 120 EAT6,2017.0,Diesel,Transverse,1560.0,120.0,Turbo (TGV) + Intercooler,9.6,190.0,300.0,101.0,3.6
+Peugeot,308,308 II,1.6 BlueHDi 120 Style,2015.0,Diesel,Transverse,1560.0,120.0,Turbo + Intercooler,9.6,196.0,300.0,94.0,3.6
+Peugeot,308,308 2018,1.6 BlueHDi 120,2017.0,Diesel,Transverse,1560.0,120.0,Turbo (TGV) + Intercooler,9.6,189.0,300.0,94.0,3.6
+Peugeot,308,308 II,1.6 BlueHDi 120HP Active,2014.0,Diesel,Transverse,1560.0,120.0,Turbo + Intercooler,9.7,196.0,300.0,82.0,3.1
+Peugeot,308,308 II,1.6 e-HDi 115 Style,2015.0,Diesel,Transverse,1560.0,116.0,Turbo (TGV) + Intercooler,10.2,196.0,270.0,95.0,3.7
+Peugeot,308,308 II,1.6 e-HDi 115HP FAP Access,2013.0,Diesel,Transverse,1560.0,116.0,Turbo (TGV) + Intercooler,10.2,196.0,270.0,95.0,3.7
+Peugeot,308,308 II,1.6 e-HDi 115HP FAP Active,2013.0,Diesel,Transverse,1560.0,116.0,Turbo (TGV) + Intercooler,10.2,196.0,270.0,95.0,3.7
+Peugeot,308,308 II,1.6 e-HDi 115HP FAP Allure,2013.0,Diesel,Transverse,1560.0,116.0,Turbo (TGV) + Intercooler,10.9,188.0,270.0,100.0,3.8
+Peugeot,308,308 II,1.6 HDi 92 Style,2015.0,Diesel,Transverse,1560.0,92.0,Turbo + Intercooler,11.3,183.0,230.0,95.0,3.7
+Peugeot,308,308 II,1.6 HDi 92HP FAP Access,2013.0,Diesel,Transverse,1560.0,92.0,Turbo + Intercooler,11.3,183.0,230.0,95.0,3.7
+Peugeot,308,308 II,1.6 HDi 92HP FAP Active,2013.0,Diesel,Transverse,1560.0,92.0,Turbo + Intercooler,11.3,183.0,230.0,95.0,3.7
+Peugeot,308,308 II,1.6 HDi 92HP FAP Allure,2013.0,Diesel,Transverse,1560.0,92.0,Turbo + Intercooler,12.2,178.0,230.0,99.0,3.8
+Peugeot,308,308 II,1.6 THP 125HP Access,2013.0,Petrol,Transverse,1598.0,125.0,Turbo + Intercooler,8.9,202.0,200.0,129.0,5.6
+Peugeot,308,308 II,1.6 THP 125HP Active,2013.0,Petrol,Transverse,1598.0,125.0,Turbo + Intercooler,8.9,202.0,200.0,129.0,5.6
+Peugeot,308,308 II,1.6 THP 125HP Allure,2013.0,Petrol,Transverse,1598.0,125.0,Turbo + Intercooler,8.9,202.0,200.0,134.0,5.8
+Peugeot,308,308 II,1.6 THP 155HP Active,2013.0,Petrol,Transverse,1598.0,156.0,Turbo + Intercooler,8.0,215.0,240.0,129.0,5.6
+Peugeot,308,308 II,1.6 THP 155HP Allure,2013.0,Petrol,Transverse,1598.0,156.0,Turbo + Intercooler,8.0,215.0,240.0,134.0,5.8
+Peugeot,308,308 II,1.6 THP 205 S&S GT,2015.0,Petrol,Transverse,1598.0,205.0,Turbo + Intercooler,7.5,235.0,285.0,130.0,5.6
+Peugeot,308,308 II,2.0 BlueHDi 150 Allure,2016.0,Diesel,Transverse,1997.0,150.0,Turbo (TGV) + Intercooler,8.6,218.0,370.0,102.0,3.9
+Peugeot,308,308 II,2.0 BlueHDi 150 Auto Allure,2016.0,Diesel,Transverse,1997.0,150.0,Turbo (TGV) + Intercooler,8.6,214.0,370.0,105.0,4.1
+Peugeot,308,308 2018,2.0 BlueHDi 150 EAT6,2017.0,Diesel,Transverse,1997.0,150.0,Turbo (TGV) + Intercooler,,211.0,370.0,108.0,4.1
+Peugeot,308,308 II,2.0 BlueHDi 150 GT Line,2016.0,Diesel,Transverse,1997.0,150.0,Turbo (TGV) + Intercooler,8.6,218.0,370.0,102.0,3.9
+Peugeot,308,308 2018,2.0 BlueHDi 150,2017.0,Diesel,Transverse,1997.0,150.0,Turbo (TGV) + Intercooler,8.6,213.0,370.0,102.0,3.9
+Peugeot,308,308 II,2.0 BlueHDi 150HP Allure,2014.0,Diesel,Transverse,1997.0,150.0,Turbo (TGV) + Intercooler,8.9,213.0,370.0,105.0,4.0
+Peugeot,308,308 II,2.0 BlueHDi 150HP Auto Allure,2014.0,Diesel,Transverse,1997.0,150.0,Turbo (TGV) + Intercooler,8.6,211.0,370.0,107.0,4.1
+Peugeot,308,308,3p Confort 1.4 VTi 95,2009.0,Petrol,Transverse,1397.0,95.0,N/A,12.7,182.0,136.0,155.0,6.5
+Peugeot,308,308,3p Confort 1.6 HDi 110 FAP,2009.0,Diesel,Transverse,1560.0,109.0,Turbo (TGV) + Intercooler,11.3,190.0,240.0,120.0,4.5
+Peugeot,308,308,3p Confort 1.6 HDi 90,2009.0,Diesel,Transverse,1560.0,90.0,Turbo + Intercooler,12.6,180.0,215.0,120.0,4.5
+Peugeot,308,308,3p Confort 1.6 VTi 120,2009.0,Petrol,Transverse,1598.0,120.0,N/A,10.8,195.0,160.0,159.0,6.7
+Peugeot,308,308,3p GT 1.6 HDi 110 FAP 6 vel.,2009.0,Diesel,Transverse,1560.0,109.0,Turbo (TGV) + Intercooler,11.3,190.0,240.0,130.0,4.9
+Peugeot,308,308,3p GT 1.6 THP 150 6 vel.,2009.0,Petrol,Transverse,1598.0,150.0,Turbo Intercooler,9.8,211.0,240.0,171.0,7.2
+Peugeot,308,308,3p GT 2.0 HDi 140 FAP,2009.0,Diesel,Transverse,1997.0,140.0,Turbo (TGV) + Intercooler,10.1,205.0,320.0,144.0,5.5
+Peugeot,308,308,3p Sport 1.4 VTi 95,2009.0,Petrol,Transverse,1397.0,95.0,N/A,12.7,182.0,136.0,155.0,6.5
+Peugeot,308,308,3p Sport 1.6 HDi 110 FAP CMP,2009.0,Diesel,Transverse,1560.0,109.0,Turbo (TGV) + Intercooler,11.3,190.0,240.0,114.0,4.4
+Peugeot,308,308,3p Sport 1.6 HDi 110 FAP,2009.0,Diesel,Transverse,1560.0,109.0,Turbo (TGV) + Intercooler,11.3,190.0,240.0,120.0,4.5
+Peugeot,308,308,3p Sport 1.6 HDi 112 FAP CMP,2010.0,Diesel,Transverse,1560.0,112.0,Turbo (TGV) + Intercooler,11.4,190.0,270.0,114.0,4.4
+Peugeot,308,308,3p Sport 1.6 HDi 90,2009.0,Diesel,Transverse,1560.0,90.0,Turbo + Intercooler,12.6,180.0,215.0,120.0,4.5
+Peugeot,308,308,3p Sport 1.6 VTi 120,2009.0,Petrol,Transverse,1598.0,120.0,N/A,10.8,195.0,160.0,159.0,6.7
+Peugeot,308,308,3p Urban 1.4 VTi 95,2009.0,Petrol,Transverse,1397.0,95.0,N/A,12.7,182.0,136.0,155.0,6.5
+Peugeot,308,308,3p Urban 1.6 HDi 90,2009.0,Diesel,Transverse,1560.0,90.0,Turbo + Intercooler,12.6,180.0,215.0,120.0,4.5
+Peugeot,308,308,5p Confort 1.4 VTi 95,2009.0,Petrol,Transverse,1397.0,95.0,N/A,12.7,182.0,136.0,149.0,6.5
+Peugeot,308,308,5p Confort 1.4 VTi 98,2010.0,Petrol,Transverse,1397.0,98.0,N/A,12.7,182.0,136.0,149.0,6.5
+Peugeot,308,308,5p Confort 1.6 HDi 110 FAP 5 vel.,2010.0,Diesel,Transverse,1560.0,109.0,Turbo (TGV) + Intercooler,11.3,190.0,240.0,120.0,4.5
+Peugeot,308,308,5p Confort 1.6 HDi 110 FAP CMP,2009.0,Diesel,Transverse,1560.0,109.0,Turbo (TGV) + Intercooler,11.3,190.0,240.0,120.0,4.5
+Peugeot,308,308,5p Confort 1.6 HDi 110 FAP,2009.0,Diesel,Transverse,1560.0,109.0,Turbo (TGV) + Intercooler,11.3,190.0,240.0,120.0,4.5
+Peugeot,308,308,5p Confort 1.6 HDi 112 FAP CMP,2010.0,Diesel,Transverse,1560.0,112.0,Turbo (TGV) + Intercooler,11.4,190.0,270.0,114.0,4.4
+Peugeot,308,308,5p Confort 1.6 HDi 90,2010.0,Diesel,Transverse,1560.0,90.0,Turbo + Intercooler,12.6,180.0,215.0,120.0,4.5
+Peugeot,308,308,5p Confort 1.6 VTi 120,2010.0,Petrol,Transverse,1598.0,120.0,N/A,10.8,195.0,160.0,147.0,6.4
+Peugeot,308,308,5p Envy 1.4 VTi 98,2010.0,Petrol,Transverse,1397.0,98.0,N/A,12.7,182.0,136.0,144.0,6.3
+Peugeot,308,308,5p Envy 1.6 HDi 112 FAP,2010.0,Diesel,Transverse,1560.0,112.0,Turbo (TGV) + Intercooler,11.4,190.0,270.0,119.0,4.6
+Peugeot,308,308,5p Envy 1.6 HDi 92 FAP,2010.0,Diesel,Transverse,1560.0,92.0,Turbo + Intercooler,12.4,181.0,230.0,115.0,4.4
+Peugeot,308,308,5p Envy 1.6 VTi 120,2010.0,Petrol,Transverse,1598.0,120.0,N/A,10.8,195.0,160.0,147.0,6.4
+Peugeot,308,308,5p GTi 1.6 THP 200,2010.0,Petrol,Transverse,1598.0,200.0,Turbo + Intercooler,7.7,237.0,275.0,159.0,6.9
+Peugeot,308,308,5p Premium 1.6 HDi 110 FAP 6 vel.,2010.0,Diesel,Transverse,1560.0,109.0,Turbo (TGV) + Intercooler,11.3,190.0,240.0,130.0,4.9
+Peugeot,308,308,5p Premium 1.6 HDi 112 FAP,2010.0,Diesel,Transverse,1560.0,112.0,Turbo (TGV) + Intercooler,11.4,190.0,270.0,124.0,4.8
+Peugeot,308,308,5p Premium 1.6 THP 150 6 vel.,2009.0,Petrol,Transverse,1598.0,150.0,Turbo Intercooler,9.8,211.0,240.0,171.0,7.2
+Peugeot,308,308,5p Premium 1.6 THP 156 6 vel.,2010.0,Petrol,Transverse,1598.0,156.0,Turbo + Intercooler,8.8,214.0,240.0,155.0,6.7
+Peugeot,308,308,5p Premium 1.6 THP 156 Aut,2010.0,Petrol,Transverse,1598.0,156.0,Turbo + Intercooler,9.9,212.0,240.0,176.0,7.6
+Peugeot,308,308,5p Premium 1.6 THP 156,2010.0,Petrol,Transverse,1598.0,156.0,Turbo + Intercooler,8.8,214.0,240.0,155.0,6.7
+Peugeot,308,308,5p Premium 1.6 VTi 120,2010.0,Petrol,Transverse,1598.0,120.0,N/A,10.8,195.0,160.0,152.0,6.6
+Peugeot,308,308,5p Premium 2.0 HDi 136 FAP Aut.,2010.0,Diesel,Transverse,1997.0,136.0,Turbo (TGV) + Intercooler,10.6,200.0,320.0,180.0,6.8
+Peugeot,308,308,5p Premium 2.0 HDi 140 FAP,2010.0,Diesel,Transverse,1997.0,140.0,Turbo (TGV) + Intercooler,10.1,205.0,320.0,139.0,5.3
+Peugeot,308,308,5p Premium 2.0 HDi 163 FAP Aut,2010.0,Diesel,Transverse,1997.0,163.0,Turbo (TGV) + Intercooler,9.6,202.0,340.0,164.0,6.3
+Peugeot,308,308,5p Sport 1.4 VTi 95,2009.0,Petrol,Transverse,1397.0,95.0,N/A,12.7,182.0,136.0,149.0,6.5
+Peugeot,308,308,5p Sport 1.4 VTi 98,2010.0,Petrol,Transverse,1397.0,98.0,N/A,12.7,182.0,136.0,149.0,6.5
+Peugeot,308,308,5p Sport 1.6 HDi 110 FAP 5 vel.,2010.0,Diesel,Transverse,1560.0,109.0,Turbo (TGV) + Intercooler,11.3,190.0,240.0,120.0,4.5
+Peugeot,308,308,5p Sport 1.6 HDi 110 FAP CMP,2009.0,Diesel,Transverse,1560.0,109.0,Turbo (TGV) + Intercooler,11.3,190.0,240.0,119.0,4.4
+Peugeot,308,308,5p Sport 1.6 HDi 110 FAP,2009.0,Diesel,Transverse,1560.0,109.0,Turbo (TGV) + Intercooler,11.3,190.0,240.0,120.0,4.5
+Peugeot,308,308,5p Sport 1.6 HDi 112 FAP CMP,2010.0,Diesel,Transverse,1560.0,112.0,Turbo (TGV) + Intercooler,11.4,190.0,270.0,114.0,4.4
+Peugeot,308,308,5p Sport 1.6 HDi 90,2009.0,Diesel,Transverse,1560.0,90.0,Turbo + Intercooler,12.6,180.0,215.0,120.0,4.5
+Peugeot,308,308,5p Sport 1.6 VTi 120 Aut.,2010.0,Petrol,Transverse,1598.0,120.0,N/A,13.0,188.0,160.0,159.0,6.9
+Peugeot,308,308,5p Sport 1.6 VTi 120,2010.0,Petrol,Transverse,1598.0,120.0,N/A,10.8,195.0,160.0,147.0,6.4
+Peugeot,308,308,5p Sportium 1.6 THP 156,2010.0,Petrol,Transverse,1598.0,156.0,Turbo + Intercooler,8.8,214.0,240.0,155.0,6.7
+Peugeot,308,308,5p Sportium 1.6 VTi 120,2010.0,Petrol,Transverse,1598.0,120.0,N/A,10.8,195.0,160.0,147.0,6.4
+Peugeot,308,308 II,BlueHDi 120 EAT6 Style,2015.0,Diesel,Transverse,1560.0,120.0,Turbo + Intercooler,9.6,196.0,300.0,96.0,3.7
+Peugeot,308,308 II,BlueHDi 180 EAT6 GT,2015.0,Diesel,Transverse,1997.0,181.0,Turbo (TGV) + Intercooler,8.4,220.0,400.0,105.0,4.0
+Peugeot,308,308,CC 1.6 VTi 120,2010.0,Petrol,Transverse,1598.0,120.0,N/A,12.0,195.0,160.0,159.0,6.9
+Peugeot,308,308,CC Sport 1.6 THP 156,2010.0,Petrol,Transverse,1598.0,156.0,Turbo + Intercooler,9.6,215.0,240.0,167.0,7.2
+Peugeot,308,308,CC Sport 1.6 VTi 120,2010.0,Petrol,Transverse,1598.0,120.0,N/A,12.0,195.0,160.0,164.0,7.1
+Peugeot,308,308,CC Sport Pack 1.6 THP 156 Aut.,2010.0,Petrol,Transverse,1598.0,156.0,Turbo + Intercooler,9.8,212.0,240.0,179.0,7.7
+Peugeot,308,308,CC Sport Pack 1.6 THP 156,2010.0,Petrol,Transverse,1598.0,156.0,Turbo + Intercooler,9.6,215.0,240.0,167.0,7.2
+Peugeot,308,308,CC Sport Pack 1.6 THP 200,2010.0,Petrol,Transverse,1598.0,200.0,Turbo + Intercooler,8.3,240.0,275.0,162.0,7.0
+Peugeot,308,308 2018,GT 1.6 e-THP 225,2018.0,Petrol,Transverse,1598.0,225.0,Turbo Intercooler,7.4,235.0,300.0,132.0,5.7
+Peugeot,308,308 2018,GT 1.6 THP 205,2017.0,Petrol,Transverse,1598.0,205.0,Turbo + Intercooler,7.6,235.0,285.0,130.0,4.6
+Peugeot,308,308 2018,GT 2.0 BlueHDi 180,2017.0,Diesel,Transverse,1997.0,180.0,,8.2,222.0,400.0,116.0,4.4
+Peugeot,308,308 2022,GT HYbrid 225,2021.0,hybrid_petrol,Transverse,1598.0,225.0,Turbo Intercooler,7.5,235.0,360.0,26.0,
+Peugeot,308,308 2018,GTi 1.6 e-THP 263,2018.0,Petrol,Transverse,1598.0,263.0,Turbo Intercooler,6.0,250.0,340.0,148.0,6.5
+Peugeot,308,308 2018,GTi 1.6 THP 270,2017.0,Petrol,Transverse,1598.0,270.0,Turbo + Intercooler,6.0,250.0,330.0,139.0,6.0
+Peugeot,308,308 II,GTi 250,2015.0,Petrol,Transverse,1598.0,250.0,Turbo + Intercooler,6.2,,330.0,139.0,6.0
+Peugeot,308,308 II,GTi 270,2015.0,Petrol,Transverse,1598.0,272.0,Turbo + Intercooler,6.0,,330.0,139.0,6.0
+Peugeot,308,308 2022,HYbrid 180,2021.0,hybrid_petrol,Transverse,1598.0,180.0,Turbo Intercooler,7.6,225.0,360.0,25.0,
+Peugeot,308,308,SW Confort 1.6 VTi 120,2010.0,Petrol,Transverse,1598.0,120.0,N/A,12.0,189.0,160.0,155.0,6.7
+Peugeot,308,308,SW Envy 1.6 VTi 120,2010.0,Petrol,Transverse,1598.0,120.0,N/A,12.0,189.0,160.0,155.0,6.7
+Peugeot,308,308,SW Premium 1.6 THP 140 Aut.,2009.0,Petrol,Transverse,1598.0,140.0,Turbo + Intercooler,11.1,199.0,240.0,194.0,8.2
+Peugeot,308,308,SW Premium 1.6 THP 150,2009.0,Petrol,Transverse,1598.0,150.0,Turbo Intercooler,9.6,209.0,240.0,177.0,7.5
+Peugeot,308,308,SW Premium 1.6 THP 156 Aut.,2010.0,Petrol,Transverse,1598.0,156.0,Turbo + Intercooler,,210.0,240.0,180.0,7.8
+Peugeot,308,308,SW Premium 1.6 THP 156,2010.0,Petrol,Transverse,1598.0,156.0,Turbo + Intercooler,,211.0,240.0,165.0,7.5
+Peugeot,308,308,SW Premium 1.6 VTi 120,2010.0,Petrol,Transverse,1598.0,120.0,N/A,12.0,189.0,160.0,155.0,6.7
+Peugeot,308,308,SW Sport 1.6 VTi 120 Aut.,2010.0,Petrol,Transverse,1598.0,120.0,N/A,14.0,182.0,160.0,167.0,7.2
+Peugeot,308,308,SW Sport 1.6 VTi 120,2010.0,Petrol,Transverse,1598.0,120.0,N/A,12.0,189.0,160.0,155.0,6.7
+Peugeot,308,308,SW Sportium 1.6 THP 156,2010.0,Petrol,Transverse,1598.0,156.0,Turbo + Intercooler,9.6,214.0,240.0,165.0,7.5
+Peugeot,308,308,SW Sportium 1.6 VTi 120,2010.0,Petrol,Transverse,1598.0,120.0,N/A,12.0,189.0,160.0,155.0,6.7
 Audi,A6,(C7 2015) A6,1.8 TFSI Ultra 190HP S-tronic 7 Speeds,2014.0,Petrol,Longitudinal,1798.0,190.0,Turbo + Intercooler,7.9,233.0,320.0,133.0,5.7
 Audi,A6,(C7 2015) A6,2.0 TDI Ultra 150HP S-tronic 7 Speeds,2014.0,Diesel,Longitudinal,1968.0,150.0,Turbo (TGV) + Intercooler,9.6,214.0,350.0,110.0,4.2
 Audi,A6,(C7 2015) A6,2.0 TDI Ultra 150HP,2014.0,Diesel,Longitudinal,1968.0,150.0,Turbo (TGV) + Intercooler,9.5,214.0,350.0,114.0,4.4
