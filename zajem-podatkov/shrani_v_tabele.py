@@ -133,7 +133,8 @@ def dodaj_v_slovar(vzorec, ime_grupe, vsebina, slovar, ključ):
 def dodaj_v_slovar_float(vzorec, ime_grupe, vsebina, slovar, ključ):
     if re.search(vzorec, vsebina):
         x = re.search(vzorec, vsebina)
-        slovar[str(ključ)] = float(x.group(str(ime_grupe)))
+        if x.group(str(ime_grupe)) != '':
+            slovar[str(ključ)] = float(x.group(str(ime_grupe)))
 
 
 # Ustvarimo slovar, ki ga bom pretvorila v csv
@@ -146,15 +147,15 @@ def ustvari_seznam_lastnosti():
         slovar = dict()
 
         verzija = re.search(vzorec_verzije, vsebina)
-        genver = re.search(vzorec_genver, vsebina)
+        generacija_ali_verzija = re.search(vzorec_genver, vsebina)
         if verzija is not None:
             # Če je avto iz generacije
             slovar['verzija'] = verzija.group('verzija')
             # Dodamo še generacijo
-            slovar['generacija'] = genver.group('gen_ali_ver')
+            slovar['generacija'] = generacija_ali_verzija.group('gen_ali_ver')
         else:
             # Če avto ni iz nobene generacije
-            slovar['verzija'] = genver.group('gen_ali_ver')
+            slovar['verzija'] = generacija_ali_verzija.group('gen_ali_ver')
 
         # Dodamo znamko avtomobila
         dodaj_v_slovar(vzorec_znamke, 'znamka', vsebina, slovar, 'znamka')
@@ -194,12 +195,24 @@ def leta_proizvodnje():
     leta = []
     for slovar in ustvari_seznam_lastnosti():
         leta_proizvodnje = slovar['leta proizvodnje'].split(',')
+        znamka = slovar['znamka']
+        model = slovar['model']
+        if 'generacija' in slovar.keys():
+            generacija = slovar['generacija']
+        else:
+            generacija = ''
         verzija = slovar['verzija']
+
 
         for leto in leta_proizvodnje:
             leta.append(
-                {'verzija' : verzija,
-                'leto' : int(leto)}
+                {
+                    'znamka' : znamka,
+                    'model' : model,
+                    'generacija' : generacija,
+                    'verzija' : verzija,
+                    'leto' : int(leto)
+                }
             )
     return leta
 
@@ -226,14 +239,25 @@ orodja.naredi_csv(
         )
 
 orodja.naredi_csv(
-    ['verzija', 'višina', 'širina', 'dolžina', 'teža'],
+    ['znamka', 
+    'model', 
+    'generacija',
+    'verzija', 
+    'višina', 
+    'širina', 
+    'dolžina', 
+    'teža'],
     ustvari_seznam_lastnosti(),
     mapa_obdelanih,
     csv_dimenzije
 )
 
 orodja.naredi_csv(
-   ['verzija', 'leto'],
+   ['znamka', 
+    'model', 
+    'generacija',
+    'verzija', 
+    'leto'],
     leta_proizvodnje(),
     mapa_obdelanih, 
     csv_leta
