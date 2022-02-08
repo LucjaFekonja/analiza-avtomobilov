@@ -27,11 +27,10 @@ Za vsak avtomobil me zanimajo naslednje lastnosti:
 
 V analizi bi rada odgovorila na naslednja vprašanja:
 1. Katerih vrst goriva je največ?
-2. Je pozicija motorja odvisna od velikosti vozila?
+2. Je prostornina motorja odvisna od velikosti vozila?
 3. Imajo superchargerji ali turbo motorji večjo moč?
 4. Kako navor vpliva na pospeševanje do 100 km/h?
 5. Ali je pri večji porabi tudi več emisij CO_2?
 6. Kako je skozi leta rastla moč motorja?
-7. Kaj je bila povprečna moč leta 1990 in leta 2019?
-8. Ali je največja hitrost vozila odvisna od njegove teže?
-9. Ali je katera znamka prevladala v katerem časovnem obdobju tj. ali je v katerem časovnem obdobju ustvarila več verzij kot ostale?
+7. Ali je največja hitrost vozila odvisna od njegove teže?
+8. Ali je katera znamka prevladala v katerem časovnem obdobju tj. ali je v katerem časovnem obdobju ustvarila več verzij kot ostale?
